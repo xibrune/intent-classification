@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model weights
+/results/models/
+
+# Large data files
+*.csv
+*.tsv
+*.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
