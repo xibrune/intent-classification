@@ -227,3 +227,4 @@ __marimo__/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+.DS_Store
