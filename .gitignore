@@ -220,11 +220,6 @@ __marimo__/
 # Model weights
 /results/models/
 
-# Large data files
-*.csv
-*.tsv
-*.json
-
 # Jupyter checkpoints
 .ipynb_checkpoints/
 .DS_Store
