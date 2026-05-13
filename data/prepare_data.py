@@ -44,11 +44,8 @@ assert set(train["intent"].unique()) == set(val["intent"].unique()) == set(test[
 assert len(set(train["text"]) & set(test["text"])) == 0
 
 # Сохранение
-output_dir = Path("../../data/splits")
-output_dir.mkdir(parents=True, exist_ok=True)
-
-train.to_csv(output_dir / "train.csv", index=False)
-val.to_csv(output_dir / "val.csv",     index=False)
-test.to_csv(output_dir / "test.csv",   index=False)
+train.to_csv("splits/train.csv", index=False)
+val.to_csv("splits/val.csv",     index=False)
+test.to_csv("splits/test.csv",   index=False)
 
 print("Сохранено: train.csv, val.csv, test.csv")
