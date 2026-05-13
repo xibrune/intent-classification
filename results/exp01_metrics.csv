@@ -1,2 +1,0 @@
-experiment,model,accuracy,macro_f1,test_samples,num_classes
-exp01_finetuning,distilbert-base-uncased,0.9424,0.9465,3578,151
