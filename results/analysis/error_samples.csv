@@ -1,0 +1,65 @@
+pair,true_intent,pred_intent,text,pred_ft,pred_zs,pred_fs,methods_made_error,n_methods,error_type,notes
+change_volume → whisper_mode,change_volume,whisper_mode,turn the volume up,change_volume,whisper_mode,whisper_mode,ZS+FS,2,magnet_intent,явная команда повысить громкость; ZS+FS сваливаются в магнит-интент аудио-домена
+change_volume → whisper_mode,change_volume,whisper_mode,limit your volume,change_volume,whisper_mode,whisper_mode,ZS+FS,2,magnet_intent,явно про управление громкостью; ZS+FS уходят в магнит
+change_volume → whisper_mode,change_volume,whisper_mode,be more quiet,cancel,whisper_mode,whisper_mode,ZS+FS,2,ambiguous_phrasing,"«be quiet» реально может означать и снижение громкости, и режим шёпота"
+change_volume → whisper_mode,change_volume,whisper_mode,turn up your speaker volume,change_volume,whisper_mode,whisper_mode,ZS+FS,2,magnet_intent,явная команда о громкости динамика; ZS+FS — магнит
+change_volume → whisper_mode,change_volume,whisper_mode,put volume setting on number 4,change_volume,whisper_mode,change_volume,ZS,1,magnet_intent,конкретная числовая команда; только ZS уходит в магнит
+change_volume → whisper_mode,change_volume,whisper_mode,set the volume at 4 for me please,change_volume,whisper_mode,change_volume,ZS,1,magnet_intent,явная установка громкости; ZS-магнит
+change_volume → whisper_mode,change_volume,whisper_mode,adjust volume setting to 4,change_volume,whisper_mode,change_volume,ZS,1,magnet_intent,явная регулировка; ZS-магнит
+change_volume → whisper_mode,change_volume,whisper_mode,please increase the volume to 4,change_volume,whisper_mode,change_volume,ZS,1,magnet_intent,явная команда; ZS-магнит
+oil_change_when → oil_change_how,oil_change_when,oil_change_how,do you change the oil in your car more than once a year,oil_change_how,oil_change_how,oil_change_when,FT+ZS,2,ambiguous_phrasing,"вопрос о частоте можно понять и как «когда» (timing), и как «как часто» (процедура)"
+oil_change_when → oil_change_how,oil_change_when,oil_change_how,is it time for an oil change,oil_change_when,oil_change_how,oil_change_how,ZS+FS,2,synonymous_intents,явный вопрос про «когда»; пара искусственно расщеплена на when/how
+oil_change_when → oil_change_how,oil_change_when,oil_change_how,when do i need to change my motor oil,oil_change_when,oil_change_how,oil_change_when,ZS,1,synonymous_intents,явно про «когда»; ZS не различает близнецовые интенты
+oil_change_when → oil_change_how,oil_change_when,oil_change_how,when do i need to change my oil next,oil_change_when,oil_change_how,oil_change_when,ZS,1,synonymous_intents,явно про «когда»; синонимия пары
+oil_change_when → oil_change_how,oil_change_when,oil_change_how,when should i get my oil changed,oil_change_when,oil_change_how,oil_change_when,ZS,1,synonymous_intents,явно про «когда»; синонимия
+oil_change_when → oil_change_how,oil_change_when,oil_change_how,when is my next oil change due,oil_change_when,oil_change_how,oil_change_when,ZS,1,synonymous_intents,явно про «когда»; синонимия
+oil_change_when → oil_change_how,oil_change_when,oil_change_how,"my oil seems pretty black, does that mean i should change it",oil_change_how,change_ai_name,oil_change_when,FT,1,ambiguous_phrasing,«стоит ли мне менять» — гибрид «когда» и «как поступить с тёмным маслом»
+oil_change_when → oil_change_how,oil_change_when,oil_change_how,i really must know when should i get my oil changed next,oil_change_when,oil_change_how,oil_change_when,ZS,1,synonymous_intents,явно про «когда»; синонимия
+cook_time → food_last,cook_time,food_last,how long should i wait before i can bake bread with homemade dough,cook_time,food_last,food_last,ZS+FS,2,ambiguous_phrasing,«сколько ждать перед выпечкой» — может быть про расстойку (cook_time) или срок годности теста (food_last)
+cook_time → food_last,cook_time,food_last,how long do you cook a salmon,cook_time,food_last,cook_time,ZS,1,semantic_adjacency,явно про время готовки; ZS путает близкие пищевые интенты
+cook_time → food_last,cook_time,food_last,how long should i cook the pasta for,cook_time,food_last,restaurant_reviews,ZS,1,semantic_adjacency,явно про время готовки; ZS путает
+cook_time → food_last,cook_time,food_last,the sauce must simmer then go in the oven but for how long,food_last,yes,cook_time,FT,1,semantic_adjacency,явно про время готовки; редкая ошибка FT на семантически близкой паре
+cook_time → food_last,cook_time,food_last,how long to microwave a frozen dinner,cook_time,cook_time,food_last,FS,1,semantic_adjacency,явно про время готовки; единичный сбой FS
+cook_time → food_last,cook_time,food_last,how long do i cook chicken breast,cook_time,food_last,cook_time,ZS,1,semantic_adjacency,явно про время готовки; ZS-путаница
+cook_time → food_last,cook_time,food_last,what time should i leave this in the oven,cook_time,food_last,cook_time,ZS,1,semantic_adjacency,явно про продолжительность в духовке; ZS-путаница
+cook_time → food_last,cook_time,food_last,how long is the chicken gonna take,cook_time,food_last,cook_time,ZS,1,semantic_adjacency,явно про время готовки курицы; ZS-путаница
+calendar → calendar_update,calendar,calendar_update,what is currently on my calendar for friday the 1st,calendar,food_last,calendar_update,FS,1,synonymous_intents,явный просмотр; FS не различает близнецовые view/update
+calendar → calendar_update,calendar,calendar_update,tell me what is showing on my calendar for the 17th of march,calendar,calendar_update,pto_request,ZS,1,synonymous_intents,явный просмотр; синонимия пары
+calendar → calendar_update,calendar,calendar_update,what appointments do i have tomorrow after 1:00pm,meeting_schedule,oil_change_when,calendar_update,FS,1,synonymous_intents,явный просмотр; FS путает view/update
+calendar → calendar_update,calendar,calendar_update,on the 26th what is on the table for my calendar,calendar,calendar_update,confirm_reservation,ZS,1,synonymous_intents,явный просмотр; синонимия
+calendar → calendar_update,calendar,calendar_update,what does my schedule look like for april 1,calendar,food_last,calendar_update,FS,1,synonymous_intents,явный просмотр; синонимия
+calendar → calendar_update,calendar,calendar_update,tell me what is on my calendar for april 1,calendar,whisper_mode,calendar_update,FS,1,synonymous_intents,явный просмотр; синонимия
+calendar → calendar_update,calendar,calendar_update,i need to know what is currently on my calendar for friday the 1st,calendar,shopping_list_update,calendar_update,FS,1,synonymous_intents,явный просмотр; синонимия
+calendar → calendar_update,calendar,calendar_update,i can't remember if i added the fun run to my calendar yet; did i,calendar_update,travel_suggestion,tell_joke,FT,1,ambiguous_phrasing,"«did i add» — запрос истории update-а, разметка как calendar спорна"
+cancel → whisper_mode,cancel,whisper_mode,can you be quiet please,cancel,whisper_mode,whisper_mode,ZS+FS,2,magnet_intent,в ассистентском контексте = cancel (прекрати говорить); ZS+FS берут поверхностную семантику слова quiet → магнит whisper_mode
+cancel → whisper_mode,cancel,whisper_mode,can you switch off,whisper_mode,whisper_mode,freeze_account,FT+ZS,2,ambiguous_phrasing,«switch off» — «отключись» (cancel) или «замолчи» (whisper)
+cancel → whisper_mode,cancel,whisper_mode,shut up!,cancel,whisper_mode,cancel_reservation,ZS,1,magnet_intent,в ассистентском контексте = cancel (прекрати говорить); ZS-магнит whisper_mode из-за прямого требования тишины
+cancel → whisper_mode,cancel,whisper_mode,you need to shut it,cancel,whisper_mode,freeze_account,ZS,1,magnet_intent,в ассистентском контексте = cancel; ZS-магнит whisper_mode
+cancel → whisper_mode,cancel,whisper_mode,no more talking,cancel,whisper_mode,cancel,ZS,1,magnet_intent,в ассистентском контексте = cancel; ZS-магнит whisper_mode
+cancel → whisper_mode,cancel,whisper_mode,please stop doing that,cancel,whisper_mode,cancel_reservation,ZS,1,magnet_intent,явное «stop doing» — cancel-сигнал; ZS уходит в магнит из-за общей quiet-тематики
+cancel → whisper_mode,cancel,whisper_mode,stop talking you are annoying,cancel,whisper_mode,cancel,ZS,1,magnet_intent,в ассистентском контексте = cancel (прекрати говорить); ZS-магнит whisper_mode
+cancel → whisper_mode,cancel,whisper_mode,stop the process happening now,cancel,whisper_mode,cancel,ZS,1,magnet_intent,явное прекращение процесса (cancel); только ZS уходит в whisper_mode
+cancel → cancel_reservation,cancel,cancel_reservation,rescind,yes,cancel_reservation,cancel_reservation,ZS+FS,2,ambiguous_phrasing,одно слово вне контекста; rescind применимо к любой отмене
+cancel → cancel_reservation,cancel,cancel_reservation,can you cancel,cancel,cancel_reservation,cancel_reservation,ZS+FS,2,hierarchical_inclusion,общий cancel без объекта; модели подставляют наиболее частый контекст (reservation)
+cancel → cancel_reservation,cancel,cancel_reservation,shut up!,cancel,whisper_mode,cancel_reservation,FS,1,magnet_intent,явно whisper-контекст; FS уходит в cancel_reservation как дефолт cancel-домена
+cancel → cancel_reservation,cancel,cancel_reservation,"that's enough, don't say anymore please",repeat,change_ai_name,cancel_reservation,FS,1,magnet_intent,просьба замолчать; FS неоправданно идёт в cancel_reservation
+cancel → cancel_reservation,cancel,cancel_reservation,"that was a mistake, undo that",cancel,roll_dice,cancel_reservation,FS,1,hierarchical_inclusion,общий undo; FS добавляет reservation-специфичность
+cancel → cancel_reservation,cancel,cancel_reservation,please stop doing that,cancel,whisper_mode,cancel_reservation,FS,1,ambiguous_phrasing,может быть любая остановка; FS неоправданно специфицирует
+cancel → cancel_reservation,cancel,cancel_reservation,oops cancel that,cancel,roll_dice,cancel_reservation,FS,1,hierarchical_inclusion,общий cancel; FS добавляет специфичность
+cancel → cancel_reservation,cancel,cancel_reservation,undo this process,cancel,fun_fact,cancel_reservation,FS,1,hierarchical_inclusion,общий undo процесса; FS подставляет reservation-контекст
+travel_suggestion → fun_fact,travel_suggestion,fun_fact,give me some ideas on what i can do in seattle for fun,travel_suggestion,fun_fact,fun_fact,ZS+FS,2,magnet_intent,явный travel-запрос; слово «fun» — триггер fun_fact-магнита у ZS+FS
+travel_suggestion → fun_fact,travel_suggestion,fun_fact,what fun is there to do in england,travel_suggestion,fun_fact,translate,ZS,1,magnet_intent,явный travel; слово «fun» — триггер магнита у ZS
+travel_suggestion → fun_fact,travel_suggestion,fun_fact,"i would like to find a list of cool things recommended for tourists in copenhagen, denmark",travel_suggestion,fun_fact,restaurant_reviews,ZS,1,magnet_intent,явный travel-запрос даже без слова «fun»; чистый ZS-магнит
+travel_suggestion → fun_fact,travel_suggestion,fun_fact,tell me some fun activities to do in oklahoma city,travel_suggestion,fun_fact,maybe,ZS,1,magnet_intent,явный travel; слово «fun» — триггер магнита
+travel_suggestion → fun_fact,travel_suggestion,fun_fact,what's fun to do in thailand,travel_suggestion,fun_fact,maybe,ZS,1,magnet_intent,явный travel; слово «fun» — триггер магнита
+travel_suggestion → fun_fact,travel_suggestion,fun_fact,what are some suggestions for places to travel,travel_suggestion,fun_fact,travel_suggestion,ZS,1,magnet_intent,явный travel без слова «fun»; чистый ZS-магнит
+travel_suggestion → fun_fact,travel_suggestion,fun_fact,suggest some things for me to do while i am in los angeles,travel_suggestion,fun_fact,todo_list_update,ZS,1,magnet_intent,явный travel; ZS-магнит
+travel_suggestion → fun_fact,travel_suggestion,fun_fact,are there any fun tourist activities in australia,travel_suggestion,fun_fact,yes,ZS,1,magnet_intent,явный travel; слово «fun» — триггер магнита
+tell_joke → fun_fact,tell_joke,fun_fact,can you tell me a joke about a lawyer,tell_joke,fun_fact,fun_fact,ZS+FS,2,magnet_intent,"явный запрос шутки; и ZS, и FS уходят в fun_fact-магнит entertainment-домена"
+tell_joke → fun_fact,tell_joke,fun_fact,what’s your favorite funny joke,tell_joke,fun_fact,tell_joke,ZS,1,magnet_intent,явный запрос шутки; ZS-магнит fun_fact
+tell_joke → fun_fact,tell_joke,fun_fact,can you share a humorous joke with me,tell_joke,fun_fact,tell_joke,ZS,1,magnet_intent,явный запрос шутки; ZS-магнит
+tell_joke → fun_fact,tell_joke,fun_fact,can you make me laugh,tell_joke,fun_fact,tell_joke,ZS,1,ambiguous_phrasing,"«make me laugh» применимо и к шутке, и к забавному факту"
+tell_joke → fun_fact,tell_joke,fun_fact,i'd like to hear a lawyer joke,tell_joke,fun_fact,change_language,ZS,1,magnet_intent,явный запрос шутки; ZS-магнит
+tell_joke → fun_fact,tell_joke,fun_fact,do you know any good jokes about zebras,tell_joke,fun_fact,tell_joke,ZS,1,magnet_intent,явный запрос шутки; ZS-магнит
+tell_joke → fun_fact,tell_joke,fun_fact,i want to hear a joke about elephants,tell_joke,fun_fact,translate,ZS,1,magnet_intent,явный запрос шутки; ZS-магнит
+tell_joke → fun_fact,tell_joke,fun_fact,do you know any jokes,tell_joke,fun_fact,tell_joke,ZS,1,magnet_intent,явный запрос шутки; ZS-магнит

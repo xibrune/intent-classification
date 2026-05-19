@@ -1,0 +1,16 @@
+true_intent,pred_intent,n_ft,n_zs,n_fs,total
+change_volume,whisper_mode,1,13,5,19
+oil_change_when,oil_change_how,2,12,1,15
+cancel,whisper_mode,1,11,1,13
+cook_time,food_last,1,8,3,12
+calendar,calendar_update,1,2,6,9
+redeem_rewards,rewards_balance,5,2,2,9
+bill_balance,min_payment,1,6,2,9
+shopping_list,shopping_list_update,1,2,5,8
+oos,reminder,1,6,1,8
+pto_used,pto_balance,5,1,2,8
+oos,directions,1,3,3,7
+oos,gas_type,1,3,1,5
+carry_on,credit_limit,1,1,2,4
+recipe,ingredients_list,2,1,1,4
+oos,international_fees,1,1,1,3

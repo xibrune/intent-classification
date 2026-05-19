@@ -1,0 +1,9 @@
+true_intent,pred_intent,in_intersection,in_aggregated,is_robust
+change_volume,whisper_mode,True,True,True
+oil_change_when,oil_change_how,True,True,True
+cook_time,food_last,True,False,False
+calendar,calendar_update,True,False,False
+cancel,whisper_mode,True,False,False
+cancel,cancel_reservation,False,True,False
+travel_suggestion,fun_fact,False,True,False
+tell_joke,fun_fact,False,True,False

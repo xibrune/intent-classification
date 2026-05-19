@@ -1,0 +1,1951 @@
+text,intent_name,umap_x,umap_y
+don't do this process,cancel,10.941508,-2.884646
+tell me what is on my calendar for march 2,calendar,18.721676,6.248885
+do i have anything on my schedule for april 15,calendar,18.442024,6.3536034
+what's a good fun fact about great britain,fun_fact,11.421044,13.215332
+i want to cancel my reservation for 5 at red robin,cancel_reservation,11.361304,3.3054857
+what kinds of fun things are there in boston for tourists,travel_suggestion,12.715957,15.776132
+make saound function operate in whisper mode,whisper_mode,12.175238,-8.303086
+make me giggle,tell_joke,8.825813,11.738968
+"turn up the volume level to 4, please",change_volume,6.046083,-9.241069
+what time is my haircut on wednesday,calendar,18.064512,6.396212
+what are some interesting things i can do while in raleigh,travel_suggestion,13.554828,15.433894
+add jake's birthday party for friday at 5,calendar_update,17.492138,5.4853883
+stop it,cancel,10.133875,-3.9263165
+do you have any jokes,tell_joke,8.2708845,11.119386
+what's the time it takes to make a decent omelette,cook_time,-1.0097396,17.452175
+make me laugh,tell_joke,8.753443,11.657724
+what things are there to do in kentucky,travel_suggestion,13.482451,15.177868
+what would be a fun fact about cats,fun_fact,9.99982,12.46417
+cancel my reservation with carl at umami,cancel_reservation,10.530749,4.58587
+can you remove this event from my calendar,calendar_update,17.496593,4.8529754
+when's the next time i ought to change my oil,oil_change_when,-4.574118,5.3505363
+remove the may 11 event called baby shower from my calendar,calendar_update,17.474417,4.914647
+indicate something funny on the topic of food,tell_joke,8.758592,12.130952
+how long should i bake the brownies for,cook_time,-1.9336398,16.542185
+what are some popular tourist activities in mexico city,travel_suggestion,12.936915,16.062862
+when is the best time for my next oil change,oil_change_when,-4.63506,5.435605
+tell me something interesting about los angeles,fun_fact,12.852102,15.375345
+tell me something to make me laugh,tell_joke,8.818038,11.690602
+scrap reservation at 4 for red robin,cancel_reservation,11.426067,3.3286698
+tell me a joke about lawyers,tell_joke,8.6998415,10.894237
+i want to hear something funny about politicsi,tell_joke,8.966914,11.730709
+find step by step instructions on how to change my oil,oil_change_how,-1.9760804,-3.8214152
+please set the volume to 4,change_volume,6.132126,-9.430603
+heard any good jokes,tell_joke,8.311289,11.121601
+is my oil change coming up soon,oil_change_when,-4.946806,5.2111106
+i want to know fun facts about koala bears,fun_fact,10.465756,12.538171
+oil changes are typical done when,oil_change_when,-4.5998783,6.2778516
+when would you recommend i get my oil changed,oil_change_when,-4.4011803,5.546813
+when will my milk be no good,food_last,0.1683722,14.175597
+remove jess's party from my calendar,calendar_update,17.386639,5.108336
+do you know any good jokes you would like to share,tell_joke,8.416144,11.076219
+what is the way i can change my oil,oil_change_how,-2.4611468,-3.9839275
+"i want the events on my calendar for march 20th, 2019 to be cleared",calendar_update,18.033865,4.6031847
+i need to know how to change oil in a car,oil_change_how,-2.5192463,-2.6919284
+go ahead and increase your speaker volume,change_volume,8.894824,-7.8168178
+how long does it take to make shrimp scampi,cook_time,-1.1124855,17.05112
+fun facts about tigers,fun_fact,10.345566,12.598835
+"i need some recommendations for fun tourist activities in washington, dc",travel_suggestion,13.028646,15.730245
+you can cancel my reservation,cancel_reservation,11.184015,4.4592214
+don't make too much noise,whisper_mode,9.608107,-7.0021706
+tell me what my calendar looks like for april 13,calendar,18.595293,6.328211
+what are popular mountains to hike in arizona,travel_suggestion,13.26655,14.863337
+please increase your volume,change_volume,8.716937,-6.9306426
+what is the prep time for a 10 lb turkey,cook_time,-1.5226412,17.565588
+"could you cancel that request, please",cancel,11.111663,-3.9123769
+cancel that last command,cancel,11.438993,-3.4744606
+milk can stay in my fridge for how long,food_last,-0.1201048,14.32416
+turn down the volume,change_volume,8.518861,-7.521725
+know any interesting facts,fun_fact,11.041723,12.867321
+tell me something interesting about outer space,fun_fact,10.953447,12.933928
+can you cancel it,cancel,11.165731,-3.822046
+how soon until i will need to get my oil changed,oil_change_when,-3.995524,6.084426
+clear my calendar for may 3rd,calendar_update,18.119394,4.5968795
+how do you know if your oil needs changed,oil_change_when,-4.9554443,6.043166
+how long does cottage cheese keep in the fridge,food_last,-0.43016052,15.423568
+what are some things to do in portland,travel_suggestion,12.987701,15.0994625
+tell me what to do to change the oil in a subaru,oil_change_how,-2.640156,-2.6768749
+remove anniversary dinner from my calendar on april 5,calendar_update,17.233597,5.233821
+can you switch out of whisper mode,whisper_mode,12.215417,-8.159042
+i need instructions on how to change my car's oil and what type i should buy,oil_change_how,-2.4920418,-3.0143101
+the reservation at zepher cancel joe from that,cancel_reservation,10.838212,4.1916385
+make not of my appointment for tomorrow on my calendar,calendar_update,19.333353,4.708235
+is it okay to eat chicken that i put in the fridge on monday,food_last,0.26105773,16.01724
+tell me something interesting about elephants,fun_fact,10.456117,12.509416
+can you speak quieter,change_volume,9.797132,-6.9316325
+forget reservation at oyster bar for tonight,cancel_reservation,11.772667,4.3718348
+can you recommend for me when to next get my oil changed,oil_change_when,-4.4436555,5.507835
+read me some interesting information about cats,fun_fact,10.047954,12.475796
+do you know any good jokes about lawyers,tell_joke,8.500903,10.95245
+how can i change car oil,oil_change_how,-2.801115,-2.7969933
+do i have anything scheduled on january 1st,calendar,18.607616,5.9824457
+i need to know when should i get my oil changed next,oil_change_when,-4.552788,5.571382
+what do i have to do on march 2 that's on my calendar,calendar,18.667358,6.084623
+add my doctor appointment on march 25th at 3:00 to my calendar,calendar_update,19.38468,4.7454057
+"i need to change my oil, how do i",oil_change_how,-2.4999757,-4.028273
+what do i have scheduled for february 28th,calendar,18.45256,6.299833
+how long can i keep pizza in the freezer for before it goes bad,food_last,-0.5849038,15.517509
+i'd like to be out of whisper mode,whisper_mode,12.204982,-8.681006
+what kind of oil and how much do i need for my toyota tacoma truck and how do i do it,oil_change_how,-3.0926933,-3.5793571
+stop,cancel,10.157783,-3.8795142
+stop talking please,cancel,9.590519,-4.332416
+please stop it,cancel,10.149295,-3.8878453
+tell me when i should change me oil,oil_change_when,-4.478072,5.5431075
+go to whisper mode for one hour,whisper_mode,11.713388,-8.671339
+call the restaurant and cancel my reservation,cancel_reservation,12.087958,4.3961897
+do you have any funny jokes,tell_joke,8.34587,11.060808
+can you please whisper,whisper_mode,11.007009,-7.3456626
+when is my next oil change,oil_change_when,-4.9210095,5.1970067
+tell me something funny about animals,tell_joke,9.958174,12.149978
+tell me something funny about adulthood,tell_joke,9.008753,11.9249735
+do you know any fun facts about mt everest,fun_fact,11.46019,13.272648
+do you know any dad jokes,tell_joke,8.361837,11.181168
+"can you cancel that request, please",cancel,11.03705,-3.9894178
+find me cat trivia now please,fun_fact,9.950975,12.666899
+"in austin, what are some tourist things to do",travel_suggestion,12.889584,15.659476
+do i need to go under the car to change oil,oil_change_how,-2.7656472,-2.5021517
+"what you are doing is not actually helpful, please cancel the action",cancel,10.958712,-3.4894261
+how can i change my car oil,oil_change_how,-2.8269827,-2.743947
+can you give me some suggestions to go site seeing when i get there,travel_suggestion,13.318755,16.775486
+"increase the volume level to 4, please",change_volume,5.994475,-9.14122
+how can my oil be changed in my car,oil_change_how,-2.7183518,-2.750857
+how long will steaks last in the freezer,food_last,-0.46421975,16.036842
+what is the schedule for my next oil change,oil_change_when,-4.8684406,5.304668
+tell me something fun about gravity,fun_fact,11.0316925,12.921816
+"what've i got set for friday, the 13th, of next year",calendar,17.607971,6.5223327
+at the point when should i get my oil changed straightaway,oil_change_when,-4.3370805,5.5226836
+cut cucumbers can stay in the fridge for how long before spoiling,food_last,-0.43834907,15.380416
+how long do you need to bake chicken for it to be safe to eat,cook_time,-1.1204824,17.602808
+what kind of oil does my car take and how do i do a change,oil_change_how,-2.9720016,-3.312191
+i no longer want my reservation for 5 at the loft cancel it please,cancel_reservation,11.338905,3.7679987
+cancel the reservation for joe and i right now for the zephers reservation we had booked,cancel_reservation,10.843985,4.1770906
+please cancel the reservation at zephers for joe and myself right now,cancel_reservation,10.822644,4.153836
+how long until my oil needs to be changed,oil_change_when,-3.9145257,6.115017
+what do you recommend to do in vegas,travel_suggestion,13.1533575,15.485212
+use your whisper voice,whisper_mode,10.7804785,-7.5390177
+where is the best winery in the south of france,travel_suggestion,13.002705,16.36933
+how to change oil and what oil type,oil_change_how,-2.6217284,-3.913272
+how do i change the oil in my passat,oil_change_how,-2.0314765,-3.8994932
+how many days milk can be preserved,food_last,0.048251443,14.20498
+what are fun facts about lighthouses,fun_fact,11.077179,13.267023
+erase any event on my calendar that's set for wednesday of next week,calendar_update,17.815136,4.6510873
+i would like to listen to a funny joke,tell_joke,9.009237,10.879053
+how long does it take frozen steaks to go bad,food_last,-0.472386,16.041994
+"check my calendar for me, please",calendar,18.171062,6.127362
+give me a cool fact about potatoes,fun_fact,11.023657,12.667577
+when will lettuce in the fridge go bad,food_last,-0.35511982,15.162632
+please cancel the last input,cancel,11.366518,-3.5838194
+where should i book my next trip,travel_suggestion,13.435807,16.998566
+what do i have going on march 2nd on my calendar,calendar,18.725775,6.117309
+please delete the reservation for roberts at village tavern,cancel_reservation,11.517563,4.605659
+i don't need the reservation anymore,cancel_reservation,10.955662,5.0199413
+could you stop talking for a second,cancel,9.594171,-4.2772675
+the milk will expire when,food_last,0.2741007,14.18901
+give me a joke about the topic of television,tell_joke,8.971435,11.120299
+when can i get oil changed,oil_change_when,-4.528571,5.8915315
+how long do the brownies need to be in the oven,cook_time,-1.8936049,16.547123
+how long can i keep fish in the freezer before it gets ruined,food_last,-0.47691786,15.784914
+i no longer need the dinner reservation,cancel_reservation,12.370986,4.314564
+what is the length of time i can leave pork in the fridge,food_last,-1.1163744,15.722768
+cancel my reservation for me,cancel_reservation,11.12206,4.4802456
+my reservation is no longer needed,cancel_reservation,10.839056,5.055415
+heard any good jokes lately,tell_joke,8.321584,11.094618
+can you cancel my dinner reservation,cancel_reservation,12.008758,4.313625
+what's on my schedule for may 3,calendar,18.573156,6.543546
+are there any fun tourist things to do in boston,travel_suggestion,12.720997,15.766174
+"put ""get tires checked"" on my calendar",calendar_update,18.527817,5.4578295
+what is the expiration date of my milk,food_last,0.2766277,14.139186
+refrain from talking,cancel,9.524372,-4.3455935
+whisper to me,whisper_mode,11.070465,-7.4108825
+do i have anything on my calendar for march 2nd,calendar,18.523115,5.9411855
+decrease volume,change_volume,8.352034,-6.885268
+read my appointments for march 2,calendar,18.832037,5.987786
+what do people find funny about food,tell_joke,8.735588,12.1515665
+i want you to cancel the current action,cancel,10.980832,-3.453273
+what steps do i need to follow to change the oil in my car,oil_change_how,-2.5095227,-2.508354
+please begin using the whisper voice setting,whisper_mode,11.298021,-7.9247794
+abort,cancel,11.007156,-3.1981654
+please cancel that last command,cancel,11.381971,-3.5154736
+please raise the volume to 4,change_volume,6.055705,-9.208237
+i must know when should i get my oil changed next,oil_change_when,-4.4592047,5.458396
+cancel doctors appointment from my calendar,calendar_update,19.34339,4.617746
+i do not want my reservation anymore,cancel_reservation,10.9026985,5.017143
+"forget it, i do not need it anymore",cancel,10.802312,-3.8187325
+are there any exciting tourist things to do in boston,travel_suggestion,12.726567,15.747264
+i want to hear something funny,tell_joke,8.969097,11.783579
+please take final exams off my calendar for may 3,calendar_update,18.351788,5.984314
+can you tell me how long it will take to cook a lasagna,cook_time,-0.6266285,17.75489
+march 3rd needs to be cleared on my calendar,calendar_update,18.087933,4.601428
+can you increase the speaker volume,change_volume,8.867204,-7.8144617
+stop the process,cancel,10.940407,-2.8257902
+set whisper mode to off,whisper_mode,12.423137,-8.577346
+have i gotten around to adding the bike ride to my calendar yet,calendar,18.265003,5.706374
+how long to microwave a pizza,cook_time,-0.91454315,15.957548
+please increase the volume to 4 please,change_volume,5.9945455,-9.152289
+go into whisper mode now,whisper_mode,11.552408,-8.642272
+leave whisper mode,whisper_mode,12.33208,-8.5915165
+tell me a joke if you'd like to,tell_joke,9.07047,10.705982
+how long should i expect beef stroganoff to prepare,cook_time,-1.5048295,17.239334
+i want to know where to visit in bangkok,travel_suggestion,12.929132,16.5497
+could you share a joke,tell_joke,9.169157,10.670823
+i want the volume at level 4,change_volume,6.0366335,-9.348911
+something's come up so i need to cancel my reservation so now,cancel_reservation,11.131937,4.3821206
+what's the average cooking time for cooking wings,cook_time,-1.1960622,17.496008
+do not complete the task that i gave you,cancel,10.764407,-3.43078
+"actually, cancel that command",cancel,11.364119,-3.557191
+discontinue your current task,cancel,10.81319,-3.3624957
+find something fun for me to do in dallas,travel_suggestion,13.252616,15.489962
+what is the recommended interval to get my oil changed,oil_change_when,-4.362543,5.9235034
+"cancel the dinner reservation i made, okay",cancel_reservation,12.234617,4.331616
+i want that volume bumped up to 4,change_volume,6.011375,-9.285849
+tell me what my calendar looks like for march 12th,calendar,18.62867,6.4209976
+you must increase your volume,change_volume,8.698956,-6.838021
+i need to edit this event out of my calendar,calendar_update,17.635563,4.9972324
+remove moms birthday from calendar,calendar_update,17.548761,5.200593
+search for how to change my oil,oil_change_how,-2.3875532,-4.0491114
+i need your setting switched to whisper mode right away,whisper_mode,11.50134,-8.458888
+i want to take the 8am meeting with sam on monday the 5th off my calendar,calendar_update,18.959488,5.244614
+delete that event from calendar,calendar_update,17.546774,4.8312755
+you can cancel the task,cancel,10.856109,-3.3457913
+please turn the volume to 4,change_volume,6.1450696,-9.388174
+cancel that,cancel,11.257462,-3.8449337
+"cancel my reservation for dinner, please",cancel_reservation,12.150715,4.311885
+please increase volume,change_volume,8.651634,-6.909632
+will you tell me a joke,tell_joke,9.190582,10.635821
+terminate current process,cancel,10.908299,-2.9703732
+what sorts of activities should i get up to while i am in dublin,travel_suggestion,12.811277,16.079306
+tell me a blonde joke,tell_joke,9.038802,10.990298
+do i have any items on my calendar for march 21st,calendar,18.480705,5.859774
+tell me something funny about rats,tell_joke,9.893777,12.18416
+give me a list of things to do in orlando,travel_suggestion,13.361099,15.405803
+stop using the whisper mode,whisper_mode,12.41495,-8.576976
+tell me some something trivia,fun_fact,10.249689,13.399517
+please cancel my dinner reservation for tuesday,cancel_reservation,12.15152,4.2754383
+what is on my schedule for tomorrow,calendar,18.055826,6.565797
+i want you to your volume,change_volume,8.835015,-7.0847588
+how do i do an oil change and what type do i use,oil_change_how,-2.6134338,-3.8481274
+change the volume to 4 now please,change_volume,6.13407,-9.400154
+tell me some fun tourist attractions in london,travel_suggestion,12.8184395,15.983754
+what's a good use of my time in toronto,travel_suggestion,13.291571,16.457981
+tell me something interesting about sperm whales,fun_fact,10.5555525,12.635489
+how long should i fry an egg for,cook_time,0.67442834,16.629896
+"i made a reservation for chris at tony's, please cancel it",cancel_reservation,11.431908,4.3400292
+silence,cancel,9.916364,-6.8780107
+cancel my reservation for bob at red robin,cancel_reservation,11.350191,3.2707572
+how often do you have to change your oil,oil_change_when,-4.5425286,6.661159
+can you tell me how to change my oil,oil_change_how,-2.4010928,-4.0708
+abort please,cancel,10.985945,-3.2568078
+turn up your volume,change_volume,8.484644,-7.5322866
+give me location for tourist destination in bangkok,travel_suggestion,12.963821,16.572294
+turn on the whisper voice,whisper_mode,11.158059,-7.8330894
+"cancel my last request, i know the answer",cancel,11.078683,-3.9295294
+start whisper mode,whisper_mode,11.890551,-8.660283
+"it seems to be that i have had pizza in the fridge since monday, so is it safe to eat",food_last,0.22979924,15.564066
+turn your speakers up,change_volume,8.507241,-7.6970577
+can i drink milk i've kept in the fridge since wednesday,food_last,-0.11497636,14.428694
+what do i have scheduled on march 2nd on my calendar,calendar,18.573578,6.2261353
+when is the next time i need to get an oil change,oil_change_when,-4.5714407,5.400331
+show me trivia about cats,fun_fact,9.954245,12.594606
+does tofu last long in the freezer before it goes bad,food_last,-0.119743235,15.370129
+how is my calendar looking for may 6th,calendar,18.465004,6.2798586
+tell me some things to see in tampa,travel_suggestion,13.391924,15.422135
+tell me today's fun fact,fun_fact,11.2050905,12.923164
+i want today's fun fact please,fun_fact,11.225599,12.909933
+i want you to use whisper voice now,whisper_mode,10.837391,-7.6813226
+i no longer want this event in my calendar,calendar_update,17.499638,4.8573184
+when is my oil due to be changed,oil_change_when,-4.8260937,5.52305
+what do tourists do for fun in seattle,travel_suggestion,12.850243,15.571188
+when can i expect meal of salmon to be finished,cook_time,-1.2440006,17.066896
+what are the procedures for changing my oil,oil_change_how,-2.4435897,-3.901251
+i want some suggestions for tourist activities in dublin,travel_suggestion,12.771034,16.108719
+clear my calendar for tomorrow,calendar_update,18.122364,4.5803223
+how long can i keep pork in the freezer for before it gets freezer burnt,food_last,-1.0873615,15.720372
+i no longer need the reservation for 20 at ihop,cancel_reservation,10.907156,5.1016045
+carla doesn't want her olive garden reservation anymore,cancel_reservation,11.922715,4.5314364
+how long will my eggs be good for,food_last,0.6909985,16.470663
+erase meeting with jeff from my calendar,calendar_update,17.61752,4.903124
+i don't need my reservation for 5 at the loft please cancel it,cancel_reservation,11.34376,3.6866412
+when is the egg expired,food_last,0.7240688,16.294195
+what do i have on my calendar for monday the 1st of march,calendar,18.104668,6.4129963
+can you use the whisper voice,whisper_mode,10.911867,-7.680878
+could you please cancel my reservation for 5 at red robin,cancel_reservation,11.3778925,3.305566
+tell what is showing on my calendar for the 17th of march,calendar,18.831085,6.738378
+what's a good trivia fact about china,fun_fact,10.47188,13.41085
+is anything on my calendar for june 22nd,calendar,18.429045,5.7904077
+"are there any interesting things to do in atlanta, georgia",travel_suggestion,13.327012,15.590057
+tell me something funny about dogs,tell_joke,10.057117,12.089803
+go ahead and cancel the reservation i made for 6:00 pm at parc,cancel_reservation,11.190368,4.3675547
+what is an amazing trivia fact relating to 3d printing,fun_fact,10.503448,13.274529
+about how long should you cook a 10 pound turkey,cook_time,-1.5278575,17.58965
+i want to learn how to change the oil in my car,oil_change_how,-2.0389383,-3.1675766
+how long do you cook a hamburger for,cook_time,-0.43915483,16.643032
+tell me a fun fact about the moon landing,fun_fact,11.204895,12.993657
+"i have potatoes in the cupboard from wednesday, are they fine",food_last,0.38549617,16.010695
+negate last command,cancel,11.466745,-3.431081
+what is tuesday like on my calendar,calendar,17.886368,6.412304
+can you get me any recommendations for the place i'm traveling to,travel_suggestion,13.376437,16.939999
+remove jake's birthday on march 22,calendar_update,17.515934,5.316418
+can you tell me what my may 1st will be like according to my calendar,calendar,18.828012,6.6413
+what's the funniest thing you've got,tell_joke,8.893387,11.844901
+what are some trivia questions about lebron james,fun_fact,10.043703,13.892365
+how many days later is it okay to eat curry that was in the fridge,food_last,0.24171562,15.813088
+did i mark the mechanic's appointment on my calendar,calendar,18.81829,5.241627
+what are the manufacturers guidance on oil changes,oil_change_when,-4.6288304,6.064763
+"i could use a laugh, got any jokes",tell_joke,8.413175,11.232529
+how long can i keep deer meat in the freezer before it's unedible,food_last,-0.49996608,15.899299
+how long do i need to cook pot au feu for,cook_time,-1.3237091,17.258146
+"mayonaise has been in my fridge for three years, is it still good to eat",food_last,0.1301759,15.707365
+tell me something funny about the middle ages,tell_joke,9.308171,12.033216
+please switch to whisper mode,whisper_mode,11.461956,-8.467569
+is rice ok after 3 days in the refrigerator,food_last,0.53186744,15.64462
+can you give me instructions on how to change the oil for my car,oil_change_how,-2.2424037,-2.9574037
+what oil should i use for an oil change and how do i do it,oil_change_how,-2.821004,-3.8189833
+"stop, i changed my mind",cancel,10.260404,-3.7975743
+command cancel,cancel,11.396828,-3.5177257
+make sure april 1 is clear on my calendar,calendar_update,18.221767,4.7030373
+how many minutes should i set an alarm for this bake,cook_time,-1.6462148,16.581343
+"i have had pasta in the fridge since monday, can is till consume it",food_last,0.14791118,15.627483
+i can't hear you and need you to turn up the volume,change_volume,8.823175,-7.2137275
+remove fencing from my calendar for may 7th,calendar_update,17.321308,4.6122923
+i need you to use your whisper voice,whisper_mode,10.747541,-7.584439
+show me something funny about food,tell_joke,8.718718,12.145629
+have any cool facts on reptiles,fun_fact,10.454977,12.654652
+what are the minutes needed to cook the meal,cook_time,-1.1876508,17.006615
+i no longer want my reservation anymore,cancel_reservation,10.913792,5.0347714
+can you give me a good piece of trivia about the rainforest,fun_fact,10.470379,13.26907
+let's switch out of whisper mode,whisper_mode,12.129888,-8.372842
+change audio settings to the whisper option,whisper_mode,11.97848,-8.023256
+what do tourists do in tokyo,travel_suggestion,12.688252,16.17441
+tell me your funniest joke,tell_joke,8.892396,11.017099
+how many miles can i drive before i need to change my oil,oil_change_when,-3.7901685,5.771888
+is it possible for you to use the whisper voice,whisper_mode,10.922516,-7.6267114
+abort the current action,cancel,10.939507,-3.1686554
+how long does chicken curry last in the freezer before it's spoiled,food_last,-0.07761467,15.951305
+i want to figure out how to do an oil change on my car,oil_change_how,-2.439505,-2.8870661
+i've had eggs in the fridge since monday are they safe eat,food_last,0.6019128,16.260359
+how do i know if my milk is expired,food_last,0.28420454,14.129952
+when do i need an oil change,oil_change_when,-4.7504573,6.0270267
+what are some activities to do in chicago,travel_suggestion,13.227681,15.900692
+"i have had pizza in the fridge since monday, so is it safe to eat",food_last,0.22646125,15.544362
+i want to travel this year but i need some suggestions,travel_suggestion,13.438121,17.005852
+tell me a joke,tell_joke,9.171462,10.77635
+halt,cancel,10.819101,-2.9707894
+give me manual on how to change oil,oil_change_how,-1.8980476,-3.851247
+how long should i boil noodles for,cook_time,-1.0571196,17.03606
+we have a table at the taco bell under bowie we need to release,cancel_reservation,12.317533,4.174592
+what day did i set on my calendar for the first day of school,calendar,18.044165,6.216745
+"never mind, don't do that",cancel,10.463004,-4.03386
+would you please increase your speaker volume,change_volume,8.886997,-7.851868
+how long does it take for dough in the freezer to go off,food_last,-0.8063573,15.781086
+make your volume quieter please,change_volume,9.104517,-7.02656
+tell me something funny about parenting,tell_joke,8.7996025,11.802305
+i wanna hear something cool about bees,fun_fact,10.856526,12.334865
+how long does it take to prepare pot roast,cook_time,-1.6008842,17.46376
+i dont need whisper mode on any more,whisper_mode,11.992637,-8.411808
+shhhh,cancel,9.965063,-4.2207937
+turn down volume,change_volume,8.5122795,-7.467006
+does my calendar include an event called shana's baby shower,calendar,17.937824,5.453612
+so how long can pizza last in the fridge,food_last,-0.67464685,15.521379
+what is the recommended time frame to change my oil,oil_change_when,-4.1701035,5.9951754
+what's the time frame for hamburger stored in the freezer to go bad,food_last,-0.34640998,15.8627615
+tell me a fun fact about the olympics,fun_fact,11.283174,13.12977
+did i set a day on my calendar for voting in the next election,calendar,18.006512,6.150889
+what is some trivia about the weather,fun_fact,10.3338,13.448818
+when is my car due for an oil change,oil_change_when,-5.1996927,5.0817595
+give me instructions on how to change my oil,oil_change_how,-1.9853181,-3.8881629
+can you tell me something funny,tell_joke,8.936146,11.826951
+turn the volume to 4,change_volume,6.259896,-9.42168
+i would like to cancel my reservations,cancel_reservation,11.07273,4.2915783
+go to whisper mode,whisper_mode,11.623968,-8.6167345
+how long until pork spoils in the fridge,food_last,-1.1478738,15.679515
+"i have to cancel my reservation after all, please",cancel_reservation,11.138908,4.396899
+tell me a funny joke,tell_joke,8.935549,11.067571
+when do cars need their oil changed,oil_change_when,-5.1191072,5.7754626
+lower volume level,change_volume,8.384593,-6.878075
+please cancel the table i had reserved for tonight,cancel_reservation,12.172835,4.121704
+can you add remember to register for the race on my calendar for the 15th of march,calendar_update,18.308744,5.7931557
+can i eat chicken if it's been in the fridge since monday,food_last,0.25833297,16.014877
+can you tell me something funny about science,tell_joke,9.40928,11.857175
+tell me something interesting about lake tahoe,fun_fact,11.172248,13.570775
+quit what you are doing,cancel,10.3770275,-3.6646848
+tell me a joke about cars,tell_joke,10.158453,11.860522
+"can you tell me how to change my car's oil, and what type i need to buy",oil_change_how,-2.868303,-3.2002022
+"so i have had pizza in the fridge since monday, so is it safe to eat",food_last,0.29173106,15.542806
+what can i do in new orleans for fun,travel_suggestion,13.17449,15.471569
+use the whisper voice,whisper_mode,10.893595,-7.681112
+what's the cooking time for the cake,cook_time,-1.6162511,16.55432
+help me change my oil,oil_change_how,-2.4873023,-4.0441318
+let me know what is showing on my calendar for the 17th of march,calendar,18.782688,6.713362
+i need to cancel my reservation for new york to xai varanda,cancel_reservation,11.065047,4.3063016
+what's the expiration for steak,food_last,-0.42791986,16.218035
+cancel my party reservation for brad at longhorn,cancel_reservation,11.185823,4.4347863
+is it easy to change the oil in my car,oil_change_how,-2.698297,-2.784094
+leave the date of june 4 open on my calendar,calendar_update,18.173822,4.559661
+what sort of jokes do you know,tell_joke,8.314683,11.09511
+how long before i need an oil change,oil_change_when,-3.8889897,6.083288
+what are some things i can do in portland,travel_suggestion,12.983874,15.105744
+what's on my calendar for tuesday,calendar,17.930452,6.3678713
+i need a spider fact,fun_fact,11.115326,12.667517
+i need to know when to change oil,oil_change_when,-4.5167785,5.8614664
+"can you remove this event from my calendar, please",calendar_update,17.466883,4.878657
+will it be okay for me to eat my leftover turkey from monday that's been in my fridge,food_last,0.3001688,16.003147
+delete all events on my calendar that have the word girlfriend in them,calendar_update,17.553026,4.82292
+please cancel my dinner reservation,cancel_reservation,12.163459,4.2894406
+i want to hear something funny about history,tell_joke,9.13514,11.989631
+will you remove the dinner with june on saturday the 4th at 7pm from my calendar,calendar_update,17.042025,5.3188257
+i'd like to hear a fun fact about adult entertainment,fun_fact,10.855687,12.896461
+make the speakers louder,change_volume,8.994515,-7.5505433
+"can you tell me what's on my calendar for march 05, 2019",calendar,18.7167,6.40612
+"can you cancel that, please",cancel,11.2272835,-3.864621
+add dentist appointment to my calendar for march 1,calendar_update,19.210985,4.67559
+how often should i change my oil,oil_change_when,-4.5287566,6.656321
+i need to delete an event from my calendar,calendar_update,17.55483,4.8208995
+go into whisper mode now please,whisper_mode,11.50503,-8.674808
+when is the next time i should change my oil,oil_change_when,-4.5154753,5.388302
+how long do i need to cook tuna casserole for,cook_time,-1.1602559,16.72078
+what's on my agenda for tomorrow,calendar,17.986794,6.6682134
+for how long does this need to cook,cook_time,-1.2219335,17.071815
+tell me some trivia about birds,fun_fact,10.3027,13.282094
+please refrain from carrying out the current task,cancel,10.787114,-3.341388
+put whisper mode on,whisper_mode,11.924724,-8.508434
+"when travelling in chicago, what kinds of attractions should i see",travel_suggestion,13.143376,15.955042
+take my dinner plans off my calendar for tomorrow,calendar_update,17.056694,5.3993435
+how long should this be in the oven,cook_time,-1.4156506,16.742952
+revert from whisper mode,whisper_mode,12.303506,-8.344661
+is my milk safe to drink after being in the refrigerator for a week,food_last,-0.100697905,14.381464
+when's the next time i have to get an oil change,oil_change_when,-4.6146164,5.311076
+how long can i have pizza in the fridge,food_last,-0.65526575,15.50553
+do you have any jokes to tell me,tell_joke,8.365614,11.124663
+i can't change my oil and don't know what kind i need,oil_change_how,-2.9664176,-3.9295304
+get louder,change_volume,9.333538,-6.9929795
+what way can i change oil at home,oil_change_how,-2.4518795,-3.955734
+please add an item to my calendar that i need to clean the kitchen on thursday,calendar_update,17.65544,5.677134
+how can i change my oil in my car,oil_change_how,-2.6600285,-2.7287612
+please add lunch and catch up with lisa on friday to my calendar,calendar_update,16.986082,5.440883
+can you end the current process,cancel,10.914381,-2.920682
+when do i need my oil changed,oil_change_when,-4.7329326,6.112431
+change audio to whisper mode,whisper_mode,12.031213,-8.033261
+how much longer until i need an oil change,oil_change_when,-3.826824,6.1327157
+know any jokes,tell_joke,8.3336735,11.112108
+how long can i freeze tofu before it goes bad,food_last,-0.11408009,15.351801
+what duration of time should i wait before i change my oil,oil_change_when,-3.8684697,6.143785
+can i eat the eggs i've had in the fridge since 2/21,food_last,0.6827529,16.342934
+give me some trivia about lebron james,fun_fact,10.044459,13.878127
+"i actually don't want this anymore, please abort",cancel,11.016048,-3.4559677
+how would i replace my oil and what sort of oil should i use,oil_change_how,-2.9290054,-3.8785927
+cancel reservation at eight for the group,cancel_reservation,11.073925,4.3525705
+forget it,cancel,10.781548,-3.8613617
+go ahead and cancel my reservation for 5 at red robin,cancel_reservation,11.38062,3.301523
+what things can i do in portland,travel_suggestion,12.98878,15.084536
+please stop the current process,cancel,10.909293,-2.9066439
+please cancel the table for two at burger king,cancel_reservation,12.223702,4.1270347
+remember to put down that i have an appointment for tomorrow on my calendar,calendar_update,19.346685,4.753833
+how long do i need to make lasagne,cook_time,-0.61463,17.770164
+how many minutes should i put meal the cake in the oven,cook_time,-1.6029845,16.551245
+stop talking,cancel,9.527653,-4.3202033
+what is the expiration date of the milk,food_last,0.26275256,14.190671
+can you rise the volume of this please,change_volume,8.650103,-6.926631
+what are some interesting things to do in dc,travel_suggestion,13.166371,15.752606
+way to change car oil,oil_change_how,-2.7624886,-2.809375
+how long do i cook this dish of rice,cook_time,-1.1339254,17.031902
+what do i set the timer for if i'm making gyoza,cook_time,-1.309465,16.892723
+i want to hear anything you have that's funny,tell_joke,9.029198,11.724722
+am i good to eat this burger from the fridge that i got two mondays ago,food_last,0.114020124,15.943055
+can you cancel the reservation for kyle's party at red lobster,cancel_reservation,11.690745,4.123193
+how long must i cook spaghetti for,cook_time,-1.1100742,17.082466
+what do i need in order to change my oil,oil_change_how,-3.0623164,-3.7706249
+read back my day for march 4th 2019,calendar,18.888985,6.306185
+please remove an event from this calendar,calendar_update,17.473478,4.854989
+how long is it acceptable to carmelize onions,cook_time,-1.11502,16.720951
+i need you to increase the speaker volume,change_volume,8.891115,-7.7825775
+make sure my reservation at umami with carl is canceled,cancel_reservation,10.514991,4.594365
+how long does it take tomatoes to expire,food_last,-0.0002457292,15.16876
+apple cider has been in my fridge for four months so can i still drink it,food_last,0.16067962,14.6716385
+what kind of oil do i need for my ford truck and how can i change it,oil_change_how,-3.1038597,-3.5709102
+how long should i cook the eggs for,cook_time,0.63903123,16.648172
+please clear my calendar,calendar_update,18.130087,4.5820546
+lets go threw some trivia on sports,fun_fact,10.150414,13.566421
+"for the calendar, on february 8 add moms birthday",calendar_update,17.763218,5.6231933
+get rid of everything on my calendar for march 2nd,calendar_update,17.92034,4.780093
+go ahead and increase the volume to 4 please,change_volume,6.0507183,-9.139164
+walk me through changing the oil on a tesla,oil_change_how,-2.2153986,-3.3321238
+is there a limit to how long you can store bread in the freezer,food_last,-0.71683097,15.720771
+i want to know a fun fact about pluto,fun_fact,10.969058,12.928647
+read my calendar for march 7th,calendar,18.669159,6.1742663
+i should use what kind of oil and can you help me change it,oil_change_how,-2.9177914,-3.9716265
+has the leftover hamburger from last saturday gone bad,food_last,-0.17253001,16.057295
+how easy is it to change your own oil,oil_change_how,-2.5387604,-3.6920245
+i have to cancel my reservation after all,cancel_reservation,11.085418,4.44528
+what could i do for fun in kentucky,travel_suggestion,13.396069,15.268558
+volume 4 set,change_volume,6.3134675,-9.583723
+cancel my reservation for 5 at the loft,cancel_reservation,11.333716,3.7127287
+how long do i need to cook roast for,cook_time,-1.5692303,17.47907
+turn on your whisper mode,whisper_mode,11.649255,-8.54012
+what do i need to change my oil,oil_change_how,-3.0477226,-3.810838
+tell me a joke about elephants,tell_joke,10.263403,12.334625
+how long are eggs good for,food_last,0.7066724,16.477318
+how long do i need to cook beef stew for,cook_time,-1.6177695,17.395372
+can you change the volume to 4,change_volume,6.2884755,-9.4453945
+oil type and do it yourself oil change information please,oil_change_how,-2.7131035,-3.7694297
+what are some local attractions in portland,travel_suggestion,12.96236,15.068639
+do you have a list of funny jokes,tell_joke,8.267637,11.107131
+how do i change my oil and what kind do i need,oil_change_how,-2.90077,-3.924349
+what can a tourist in denver do,travel_suggestion,13.084358,15.728715
+oh shut the hell up would you,cancel,9.885473,-4.167139
+anything on the schedule for october 14th,calendar,18.272575,6.356242
+when should i change my oil next,oil_change_when,-4.465022,5.671819
+volume to 4,change_volume,6.2647448,-9.575944
+get rid of my reservation at chez francois for jennifer,cancel_reservation,11.249315,4.3999124
+how do i make you stop talking,cancel,9.542159,-4.3081193
+how long should i cook a spiral ham,cook_time,-1.6302431,16.017458
+how do i change my oil with the correct type,oil_change_how,-2.818291,-3.9727738
+i need to know how to change my oil,oil_change_how,-2.4334626,-4.0453353
+how many minutes are involved in the preparation of curry,cook_time,-1.4799175,17.33228
+when should i get the oil changed in my car,oil_change_when,-5.070113,5.7824483
+give me some ideas of what to do during my trip to dallas,travel_suggestion,13.305545,15.452304
+cancel my 8:00 pm prime rib reservation,cancel_reservation,11.172998,4.4495153
+i want to learn a neat fact about black holes,fun_fact,10.992734,12.953
+when must i change oil,oil_change_when,-4.5879207,6.0626507
+set volume higher,change_volume,8.45333,-6.7955365
+when do i need my next oil change,oil_change_when,-4.796407,5.769821
+"you can remove the brithday party from my calendar fpr january 15, 2019",calendar_update,17.357737,5.010203
+can you share something interesting about world war one,fun_fact,9.9960165,13.071937
+turn volume to 4,change_volume,6.313196,-9.522274
+please cancel my reservation at red lobster for 6,cancel_reservation,11.76864,4.052413
+tell me a fact about the maned wolf,fun_fact,10.301805,12.211905
+have you heard any great jokes lately,tell_joke,8.328787,11.0492525
+i need to add my doctor's appointment to my calendar for the first,calendar_update,19.38266,4.710966
+switch to the whisper mode,whisper_mode,11.942569,-8.332166
+what's the recommended cooking time for steak,cook_time,-0.40204173,16.928202
+can you show me how to change the oil for my car,oil_change_how,-2.4650736,-2.774341
+please remove fishing from my calendar for soccer,calendar_update,17.092308,4.479744
+i need you to stop talking now,cancel,9.549279,-4.3402333
+i would like to hear something funny,tell_joke,9.094024,11.6741705
+can you cancel that request,cancel,11.109101,-3.9278705
+i want to hear jokes about toddlers,tell_joke,8.353034,11.264153
+hush,cancel,9.937482,-6.7935553
+actually forget that i don't need it,cancel,10.810371,-3.899834
+clear my calendar for november 11th,calendar_update,18.100971,4.5345087
+switch to whisper mode,whisper_mode,12.012369,-8.374784
+volume should be set at 4,change_volume,6.2053585,-9.525397
+put a reminder on the calendar to buy a gun on march 1st,calendar_update,18.583595,6.091676
+do you know anything funny about cats,tell_joke,9.910776,12.399104
+stop and go back,cancel,10.197476,-3.7744942
+please turn your volume up,change_volume,8.606756,-7.3570676
+take lunch off my calendar on the 3rd,calendar_update,17.02953,5.4356823
+go back to whisper mode,whisper_mode,11.474357,-8.707475
+how long to reheat chinese food,cook_time,-1.0527357,16.879225
+please explain the steps to change oil,oil_change_how,-2.1632552,-3.6611156
+name some tourist things to do in seattle,travel_suggestion,12.873573,15.408536
+how long will it take to make the wings,cook_time,-1.0748683,17.571056
+how soon should i have my oil changed,oil_change_when,-4.0408683,6.069334
+how do i change the oil for my car,oil_change_how,-2.6782758,-2.7580886
+when is my car due for its next oil change,oil_change_when,-5.2029166,5.069509
+tell my something funny,tell_joke,8.880301,11.838567
+can you tell me a joke about politicians,tell_joke,8.749559,11.077738
+i want to cancel the reservation for mercury at the ritz,cancel_reservation,11.07276,4.2972436
+how long can i put pizza in the fridge,food_last,-0.6808211,15.481605
+please tell me trivia about hamburgers,fun_fact,-0.22502342,16.365425
+do i have anything on my schedule for may 3,calendar,18.52942,6.374301
+let's try whisper mode,whisper_mode,11.764831,-8.460633
+can you tell me a joke,tell_joke,9.170828,10.7545805
+i want to cook a lasagna please tell me how long it will take,cook_time,-0.62242264,17.764828
+how do you change car oil,oil_change_how,-2.7229242,-2.7115574
+i intend to learn how to change oil,oil_change_how,-1.9169966,-3.3869405
+what is on my calendar next sunday,calendar,17.826283,6.3827443
+what should i put on the timer to cook this dish,cook_time,-1.3373493,16.870216
+what is the way to change motor oil,oil_change_how,-2.734585,-3.0156515
+what is tuesday's calendar like,calendar,17.891785,6.411639
+how long should i cook pho for,cook_time,-1.323886,17.221886
+go to whisper mode until i say to go back to normal,whisper_mode,11.519536,-8.6764965
+give me trivia about bats,fun_fact,10.263736,13.29041
+boost volume to 4,change_volume,6.14115,-9.316293
+what's the funniest joke you know,tell_joke,8.4179735,11.070335
+how long can you keep chicken in the freeze before it goes bad,food_last,-0.091644235,16.04075
+remove the june 12 event called sasha's wedding from my calendar,calendar_update,17.427769,4.909689
+what's the prep and cooking time on pizza dough,cook_time,-1.0923022,16.178366
+tell me what's on the calendar for saturday,calendar,17.65176,6.535604
+what to do in minneapolis,travel_suggestion,13.154725,15.408692
+i need you to cancel my reservation for smith at the williams diner,cancel_reservation,11.474907,4.4144645
+what date should i next change my oil,oil_change_when,-4.4754157,5.5719757
+when do i need to change my oil again,oil_change_when,-4.5132537,6.2043877
+how long should i cook the ham for,cook_time,-1.5579033,15.999991
+where should i spend my time off,travel_suggestion,13.394077,16.877365
+you must increase the volume to 4 please,change_volume,5.9575176,-9.090338
+how long does it take to cook a pork chop,cook_time,-1.4856588,15.905363
+read me some fun facts,fun_fact,11.105444,12.905046
+how long do i put the casserole in,cook_time,-1.3116727,16.697474
+i'd like to turn up the volume,change_volume,8.48011,-7.505087
+can you undo the reservation,cancel_reservation,10.989302,4.532025
+know any dad jokes,tell_joke,8.303653,11.2298975
+when will my eggs go bad,food_last,0.7304282,16.326538
+talk in whisper voice,whisper_mode,10.867103,-7.5997076
+please raise volume,change_volume,8.672224,-6.933593
+how could i replace my oil and what form of oil ought to i take advantage of,oil_change_how,-2.9251506,-3.8704069
+make the volume louder,change_volume,9.055936,-7.0849795
+when does this car need oil changes,oil_change_when,-5.133102,5.789215
+lunch with deb at noon today,calendar_update,16.941368,5.4763665
+i would like to have march 5th's 5k added to my calendar,calendar_update,18.369822,6.2510586
+procedure to change oil in car,oil_change_how,-2.660448,-2.633925
+if i cook the pizza at 400 degrees how long must it be in for,cook_time,-0.8336562,15.807492
+how long to cook a frozen pizza,cook_time,-0.8964672,15.848653
+what am i supposed to be doing today,calendar,17.90581,6.683715
+a volume of 4 is ideal please,change_volume,6.252556,-9.588366
+can i have my volume increased,change_volume,8.599794,-6.862105
+increase the volume level to 4,change_volume,6.072972,-9.182954
+quit,cancel,10.283336,-3.7118623
+how do i switch out my oil,oil_change_how,-2.480877,-4.0941467
+what do i have going on may 4th,calendar,18.66997,6.553445
+i'm due for an oil change and need assistance doing it and also need to know what kind of oil the car takes,oil_change_how,-2.9489677,-3.4507837
+how long will the chicken take to cook,cook_time,-1.2049834,17.628468
+i wanna know how long can i keep pizza in the freezer for before it goes bad,food_last,-0.5774161,15.575061
+is the tofu i put in the fridge tuesday still edible today,food_last,0.053966325,15.521717
+i want to know some trivia about our solar system,fun_fact,10.599598,13.155049
+how long does it take to make pho,cook_time,-1.1498003,17.367598
+turn your vocals down,change_volume,8.669224,-7.4893165
+"ai, stop talking",cancel,9.717869,-4.167027
+give me a fun fact about kangaroo,fun_fact,10.693499,12.636008
+tell me a joke about animals,tell_joke,9.9665365,12.055954
+are there any active events for march 4th 2019,calendar,18.932726,6.159426
+how many minutes to melt cheese,cook_time,-0.89808154,16.431566
+go to whisper mode until my morning alarm goes off,whisper_mode,12.241918,-8.686457
+what's the best place to travel to this time of year,travel_suggestion,13.44869,17.007832
+"whisper mode, stop",whisper_mode,12.349631,-8.55272
+give me an interesting fact about antarctica,fun_fact,10.988026,13.2878685
+show me how to change my oil,oil_change_how,-2.3128524,-4.033644
+bring the sound up,change_volume,8.606796,-7.2051415
+do i have any appointments on tuesday,calendar,18.879755,5.492434
+give me instruction mannual on how to change oil,oil_change_how,-1.9133987,-3.792617
+check my calendar to see if an event called final exams exists,calendar,18.045935,5.5666013
+is my calendar free next sunday,calendar,17.8706,6.2868843
+what is on my calander for valentines day,calendar,18.274693,6.4549403
+add my spa appointment on the 12th to my calendar,calendar_update,19.289188,4.8114085
+i need to cancel my reservation for rob at red robin,cancel_reservation,11.321777,3.2351213
+what are some fun local experiences in canada,travel_suggestion,12.996119,15.961595
+hit me with a good joke,tell_joke,8.891995,11.001982
+how long does it take to cook roast beef,cook_time,-1.603814,17.442446
+can you show me how to change the oil in my car,oil_change_how,-2.466518,-2.7847643
+"it turns out i have had pizza in the fridge since monday, so is it safe to eat",food_last,0.2315104,15.548479
+do you know any fun facts about australian football,fun_fact,11.298156,12.959144
+i would like to cancel my reservation for nenuco's restaurant to x- tapas,cancel_reservation,11.732725,4.3404727
+is it still safe to consume the cake she backed last thursday,food_last,0.17113277,15.7022505
+adjust the volume to level 4,change_volume,6.112472,-9.245742
+what can i do in nashville,travel_suggestion,13.6736965,15.374973
+explain to me the trivia on twilight,fun_fact,10.235243,13.44177
+when will my car need an oil change,oil_change_when,-5.175899,5.6923127
+delete the hair appointment i had scheduled on may 1st pleae,calendar_update,19.248343,4.6073685
+decrease your decibel level,change_volume,8.354894,-6.9079976
+cancel that last thing,cancel,11.286677,-3.7724583
+what do people in sioux falls do for fun,travel_suggestion,13.160053,15.547484
+when should i change my oil again,oil_change_when,-4.3810387,6.0452933
+when do i need you change my oil,oil_change_when,-4.7264414,6.046767
+what events are on my calendar for april 1st,calendar,18.830975,5.9705524
+how do i do an oil change,oil_change_how,-2.3055081,-3.8099194
+tell me something funny about politics,tell_joke,8.951917,11.803692
+tell me how long milk stays good in the fridge,food_last,-0.11733618,14.336274
+how long does it take to make lasagna,cook_time,-0.6076363,17.78838
+cancel my reservations for joe's at zepher right now,cancel_reservation,10.827635,4.1756144
+what sites are there to see when in evans,travel_suggestion,13.818513,15.531264
+how much time do i need to make the chicken,cook_time,-1.1829273,17.576761
+quit talking,cancel,9.503836,-4.319873
+stop what you're doing,cancel,10.360284,-3.674563
+tell me a joke about the subject of sailing,tell_joke,9.214316,11.307418
+cancel,cancel,11.27118,-3.7118807
+how long should i cook chicken thighs,cook_time,-1.2164716,17.720688
+take lunch with steven off of my calendar,calendar_update,17.03675,5.4328933
+can you give me an overview of what march 23 will look like for me,calendar,18.822138,6.5848517
+how long should i cook steak for,cook_time,-0.38058794,16.918217
+how long does it take milk to expire,food_last,0.20329529,14.170423
+i need to add farm trip to my calendar for friday,calendar_update,16.571732,4.7283063
+louder please,change_volume,9.351906,-6.987805
+after how long should i change my oil,oil_change_when,-3.9838426,6.181022
+"what do i have on my calendar today, the 3rd",calendar,18.225634,6.4656825
+"please, recite to me some good one liners",tell_joke,8.583432,11.323611
+tell me something funny,tell_joke,8.882652,11.88754
+would you like to tell me a joke,tell_joke,9.048266,10.718845
+give me some awesome travel destinations,travel_suggestion,13.387159,16.961779
+how do i change oil on a car,oil_change_how,-2.6635835,-2.704381
+let's whisper,whisper_mode,11.052952,-7.328987
+can you change to the whisper voice setting,whisper_mode,11.940538,-7.9814816
+read me cat trivia,fun_fact,9.906341,12.656737
+what is today's fun fact,fun_fact,11.240065,12.948611
+can you turn the volume to 4,change_volume,6.33011,-9.476878
+what are some fun things i can partake in in atlanta,travel_suggestion,13.442769,15.536347
+turn up your volume,whisper_mode,8.471479,-7.5077357
+please unreserve that table,cancel_reservation,12.184051,4.0543704
+when's the next time i should go for an oil change,oil_change_when,-4.6239076,5.2697554
+erase all events on friday from my calendar,calendar_update,17.836166,4.7543344
+do you know any trivia about the ocean,fun_fact,10.789975,13.363167
+i need to put my appointment for tomorrow on my calendar,calendar_update,19.360365,4.779866
+please increase your speaker volume,change_volume,8.924115,-7.7827225
+use your whispering voice,whisper_mode,10.547698,-7.3598127
+how will i change my car's oil,oil_change_how,-2.8211775,-2.8445115
+what are some tourist sites to see in ann arbor,travel_suggestion,13.0950365,16.028692
+can my volume be increased,change_volume,8.591792,-6.8621554
+can you tell me fun facts about lighthouses,fun_fact,11.07726,13.27527
+"switch to whisper mode, please",whisper_mode,11.488715,-8.477129
+any unique trivia about beats headphones,fun_fact,10.353685,13.373209
+undo the last event on my calendar,calendar_update,17.532656,4.900015
+what should i do in bangor,travel_suggestion,12.979471,15.124815
+cancel the reservation at olive garden for tommy,cancel_reservation,11.871741,4.4574347
+how long will it take to make an omelet,cook_time,-0.96978426,17.513695
+give me a joke about horses,tell_joke,9.943004,11.935173
+milk will go bad in my fridge when,food_last,-0.09960262,14.353102
+when is an oil change needed by me,oil_change_when,-4.7954707,5.992586
+please stop talking,cancel,9.623063,-4.3117256
+whisper for me,whisper_mode,11.057184,-7.3584175
+tell me an axolotl fact,fun_fact,10.984476,12.752537
+tell me something interesting about new york state,fun_fact,12.871233,15.52501
+"i need a tutorial to learn how to change my oil, please",oil_change_how,-1.8217096,-3.689651
+when to change my oil,oil_change_when,-4.4899163,5.913351
+can you tell me what my calendar is like for thursday the 14th,calendar,18.024984,6.3836
+could you please tell me a good joke,tell_joke,8.93378,10.955115
+oil changes are typical done how often,oil_change_when,-4.554438,6.6104293
+make the sound of my speaker greater,change_volume,8.916741,-7.7576995
+what oil should i use and how do i change it,oil_change_how,-3.0021248,-3.9120994
+what's the best place to visit in arizona,travel_suggestion,13.336034,14.884267
+please take off my calendar on saturday the 6th birthday party for john,calendar_update,17.444479,5.4345245
+how long do i need to cook lasagne for,cook_time,-0.608378,17.770567
+how do i change the oil in a car,oil_change_how,-2.7206352,-2.6842577
+where should i travel if i want to visit some history museums,travel_suggestion,13.346057,16.915125
+tell me how long can i keep pizza in the freezer for before it goes bad,food_last,-0.5556256,15.562849
+can you turn up the volume for your speaker,change_volume,8.670435,-7.8622437
+can you do some research about the best places to travel,travel_suggestion,13.380198,16.948627
+please schedule an event called 'nadine's baby shower' on my calendar,calendar_update,17.978329,5.3534985
+i need to know the preparation time required for fried chicken,cook_time,-1.1444817,17.48351
+when will i need my next oil change,oil_change_when,-4.816154,5.4291825
+when will my car need new oil,oil_change_when,-5.123894,5.7108893
+take me out of whisper mode,whisper_mode,12.340764,-8.63431
+walk me through the steps involved in changing my oil,oil_change_how,-2.1120157,-3.6806078
+please turn your speaker volume up,change_volume,8.619115,-7.717084
+what items do i have on my calendar for easter,calendar,18.297789,6.3354273
+let's use whisper voice,whisper_mode,10.859953,-7.5873833
+remove my dinner reservation,cancel_reservation,12.295086,4.361136
+i need to change my oil and have no idea how to do it,oil_change_how,-2.4462953,-3.9915426
+what's in the books for april 30th,calendar,18.850409,6.0538273
+i need to cancel my reservations,cancel_reservation,11.048391,4.282284
+read me my schedule for march 2,calendar,18.769138,6.2770057
+turn to whisper mode,whisper_mode,11.864467,-8.498764
+could you tell me what fun tourist things i could do in tokyo,travel_suggestion,12.709451,16.179441
+say something funny,tell_joke,8.869256,11.8987055
+can you share something funny about traveling,tell_joke,9.007538,11.860337
+"cancel my reservation for dinner this saturday, please",cancel_reservation,12.087908,4.2629538
+how long will tofu last in the freezer before it expires,food_last,-0.10047245,15.415948
+can you please turn the volume to 4,change_volume,6.11717,-9.343915
+i made a reservation under mark hamil at the emporium that i don't need any more,cancel_reservation,10.858798,5.103925
+does the calendar already have easter noted on it,calendar,18.121347,6.1589017
+what do i have going on on my calendar for march 18th,calendar,18.71807,6.6016397
+give me some recommendations of good tourist attractions in montreal,travel_suggestion,12.977603,16.21541
+halt that immediately,cancel,10.820489,-2.9992816
+can you switch to whisper mode,whisper_mode,12.175584,-8.191331
+friday needs to be clear on my calendar,calendar_update,17.683859,5.7758503
+how long should i cook country fried potatoes for,cook_time,-0.55288655,17.03315
+what is the due date for my next oil change,oil_change_when,-5.146295,5.0670424
+remove meeting with carla from the calendar,calendar_update,17.53693,4.916119
+how soon until the milk expires,food_last,0.18604504,14.201638
+is there anything fun to do in berlin,travel_suggestion,12.806861,16.117872
+add meeting with carla to my schedule for july 4,calendar_update,18.538094,5.1655936
+what is the expiration date for those eg,food_last,0.3245827,14.199415
+i need step by step instructions on how to change the oil in my car,oil_change_how,-2.2965407,-2.8642452
+"it's been 3 years since i changed my oil, how long until i have to deal with it",oil_change_when,-3.8884826,6.113823
+switch off whisper mode,whisper_mode,12.386063,-8.497698
+what's a good place to travel to,travel_suggestion,13.459701,17.022436
+cut carrots can stay in the fridge for how long before going bad,food_last,-0.48565996,15.425013
+what is the time frame for changing oil,oil_change_when,-4.0977917,6.112085
+change to normal vocals mode,whisper_mode,11.89844,-8.033252
+what festivals are there to see in paris,travel_suggestion,13.034607,16.269997
+"can you remove that event from my calendar, please",calendar_update,17.469257,4.8910418
+i need a good laugh,tell_joke,8.928854,11.553878
+"what are some fun things to do in butte, montana",travel_suggestion,13.211981,15.564808
+bananas expire in how long,food_last,0.2550648,14.562712
+whats the procedure to cancel it,cancel,11.178903,-3.6356995
+i got to remove fishing from my calendar for soccer,calendar_update,17.07449,4.4880476
+what's on my calendar on march 10th,calendar,18.562572,6.3160596
+change to whisper mode,whisper_mode,12.097747,-8.209326
+i want to change the oil in my car but i do not know how to do it can you help,oil_change_how,-2.5559337,-2.6838517
+"i need to cancel my reservation after all, please",cancel_reservation,11.130008,4.3544774
+do you have anything funny to tell me,tell_joke,8.810681,11.769842
+when does milk will go bad,food_last,0.050375696,14.271396
+i need to add iep meeting to my calendar on april 15th,calendar_update,18.818836,5.118522
+raise the volume,change_volume,8.464964,-6.8009768
+please cancel my 7:30 reservation for morton's,cancel_reservation,11.158854,4.405134
+i want you to cancel my reservation for 5 at red robin,cancel_reservation,11.373411,3.3194797
+when should i change my oil,oil_change_when,-4.4320364,5.7913694
+my reservation for dinner needs to be canceled,cancel_reservation,12.133693,4.3592873
+did i had my wife and mine anniversary to my calendar,calendar,17.726318,5.5406737
+i gotta know when should i get my oil changed next,oil_change_when,-4.4749794,5.461971
+tell me something funny about horses,tell_joke,9.830467,12.022555
+speak up,change_volume,9.498034,-4.393953
+mark my calendar that i will be meeting steven on march 5,calendar_update,18.322233,5.58632
+how long do cheeseburgers take to make,cook_time,-0.6796776,16.658272
+how long should i cook a glazed ham,cook_time,-1.6160116,15.979677
+please adjust your settings,change_volume,11.390611,-8.590851
+go ahead and put the volume to 4,change_volume,6.1967573,-9.397389
+tell me what's on my calendar for march 22nd,calendar,18.696405,6.445549
+i want you to switch to whisper mode,whisper_mode,11.65249,-8.356285
+do i have anything on my calendar for may 3,calendar,18.609913,6.074955
+take the doctor appointment off my calendar please,calendar_update,19.397423,4.6815553
+what funny joke do you know,tell_joke,8.359614,11.083596
+turn your voice box down,change_volume,8.652284,-7.701423
+how much time does it take to boil an egg,cook_time,0.60442144,16.715902
+i want to hear your best joke,tell_joke,8.971949,10.92943
+can you make a note for my next oil change,oil_change_when,-1.9306521,-3.6458433
+what length of time is safe for consuming leftover meatloaf stored in the fridge,food_last,-0.44647172,15.878856
+could you please raise your volume,change_volume,8.733853,-6.999261
+tell me something neat about slinkies,fun_fact,10.802035,12.996859
+i want my schedule for march 2,calendar,18.658102,6.2697725
+"you can remove the play date from my calendar for feb 18, 2019",calendar_update,17.303713,4.834215
+find instructions on how to change my oil,oil_change_how,-1.9528968,-3.8205683
+in how many miles do i need to schedule my oil change,oil_change_when,-3.85837,5.749753
+do you know any fun facts about shampoo,fun_fact,10.949315,12.950653
+is it ok to eat alfredo that's been in the fridge since last sunday,food_last,0.1736355,15.594166
+what's the usual time for tuna casserole,cook_time,-1.1617439,16.655306
+i'm in the mood for a joke,tell_joke,9.079369,10.628471
+decrease volume level,change_volume,8.337265,-6.8586087
+i want manual on how to change oil,oil_change_how,-1.9229826,-3.8507302
+am i ready for an oil change soon,oil_change_when,-4.929803,5.244103
+cancel my reservation for chris at jp field's,cancel_reservation,11.420785,4.368092
+i have to cancel my reservation,cancel_reservation,11.106904,4.4383893
+when am i next having a meeting in december,calendar,18.80594,5.3197665
+give me instructions for changing the oil in a 2015 passat,oil_change_how,-1.9371495,-3.7941253
+i wish to cancel my reservation for fred at red robin,cancel_reservation,11.327348,3.3070412
+abort it,cancel,11.016419,-3.2692826
+"my car's been throwing cels that i think are oil related, so i'm wondering if it's time to take it in or not",oil_change_when,-4.9376903,5.746637
+turn it up please,change_volume,8.471424,-7.5134797
+"is there anything fun to do in manassas, virginia",travel_suggestion,13.265416,15.488469
+when should my oil get changed,oil_change_when,-4.526956,5.9578276
+i gotta know what is currently on my calendar for friday the 1st,calendar,17.595894,6.5370855
+speak louder please,change_volume,9.542922,-6.857688
+switch over to whisper mode,whisper_mode,12.079477,-8.224485
+at what point should the oil be changed again,oil_change_when,-4.4269576,6.1726546
+what's something interesting to do kentucky,travel_suggestion,13.486384,15.201172
+do i have any calendar entries for march 8th,calendar,18.419334,5.85551
+scrap that dinner reservation,cancel_reservation,12.421011,4.237802
+tell me how to change the oil in 2014 odyssey,oil_change_how,-2.4648192,-4.072474
+i wanna know something funny,tell_joke,8.964386,11.811777
+i'd like it to be louder,change_volume,9.218871,-7.054407
+what is the date of my next scheduled dentist appointment,calendar,19.295153,4.791377
+please clear entries on my calendar for the 1st,calendar_update,18.199562,4.5464807
+what is the duration of time cookies should be in the oven,cook_time,-1.6604733,16.519142
+please cancel my reservation,cancel_reservation,11.138357,4.4203706
+"if i go to evans, what should i do",travel_suggestion,13.805701,15.533556
+is bowling on my calendar,calendar,17.966917,5.6951766
+how long does it take to cook hot pockets,cook_time,-1.0555766,16.949423
+i need to add something to my calendar for next tuesday,calendar_update,17.756714,5.9290233
+"i want to change my oil if you can tell me what to do, and what kind do i get",oil_change_how,-2.9100673,-3.904393
+please speak with the whisper voice,whisper_mode,10.94779,-7.449599
+what do i have planned on 3/15,calendar,18.528378,6.65802
+i wanna remove fishing from my calendar for soccer,calendar_update,17.08343,4.487583
+i don't know how to change my oil or what type i need,oil_change_how,-2.8258173,-3.9674437
+i want a cancellation of the dinner reservation for phillips at bernardin's,cancel_reservation,12.0946245,4.280365
+do you think arizona has plenty of bike routes,travel_suggestion,13.321801,14.883303
+do i need to change my oil soon,oil_change_when,-4.624961,5.887453
+how long do i cook this for,cook_time,-1.2904243,17.017382
+let me know my march 2 calendar,calendar,18.739897,6.1738024
+how long is it safe to leave shrimp in the fridge,food_last,-0.79896325,15.861414
+how long does bread last,food_last,-0.91141534,15.956867
+"ai, cancel that last request",cancel,10.907042,-4.0080357
+"can you give me some fun suggestions for tourists to check out in las vegas, please",travel_suggestion,12.956841,15.928068
+can you tell me the steps to change the oil in my car,oil_change_how,-2.4637673,-2.5705364
+can you share some trivia with me about us history,fun_fact,10.149991,13.355435
+set the volume to 4 now,change_volume,6.2652993,-9.508854
+not so loud,change_volume,9.455483,-7.012872
+do i have plans on 12/03/2019,calendar,18.591736,6.078759
+say a fun fact about mt everest,fun_fact,11.483497,13.281677
+the steak must go under the broiler for how long,cook_time,-0.37734482,16.926823
+increase volume,change_volume,8.530273,-6.8159814
+read my calendar events,calendar,18.041187,5.4819
+lower your voice box,change_volume,8.70327,-7.633751
+go now and increase the volume to 4 please,change_volume,6.0013676,-9.157719
+just trash the reservation i made please,cancel_reservation,11.156127,4.706635
+what is some trivia about frog,fun_fact,10.239529,12.7502
+make a switch to whisper mode,whisper_mode,12.155955,-8.236849
+i want to practive changing oil,oil_change_how,-2.4331143,-4.0366592
+tell me some trivia about sweat,fun_fact,10.332253,13.387319
+search my calendar for birthday,calendar,17.902424,5.882749
+cancel my reservation for 3 at carlos jr,cancel_reservation,11.150429,4.4036894
+cancel current process,cancel,11.031191,-3.001271
+what is the longest i can leave meatballs in sauce in the freezer before it is no longer safe to eat,food_last,-0.48719925,15.829124
+turn whisper mode off,whisper_mode,12.399961,-8.529366
+please cancel my reservation for 5 at red robin,cancel_reservation,11.411485,3.3319056
+what time should i cook noodles for,cook_time,-1.1430328,17.059679
+"trivia about something,tell me some",fun_fact,10.306763,13.337593
+when do i need to change my motor oil again,oil_change_when,-4.535324,6.2297974
+when do i need to change the oil again,oil_change_when,-4.4563804,6.1979775
+i have to add farm trip to my calendar for friday,calendar_update,16.569605,4.7239237
+abort mission,cancel,11.006674,-3.1870792
+what is the most amount of time that is considered safe to store uncooked chicken in the fridge,food_last,-0.014626105,16.057154
+say something hilarious,tell_joke,8.987293,11.94674
+whisper from here on out please,whisper_mode,11.090105,-7.392052
+what is the shelf life for beef in the freezer,food_last,-0.39794606,15.8795395
+can you go to the whisper voice,whisper_mode,10.950504,-7.6489334
+please turn on whisper mode,whisper_mode,11.535568,-8.546373
+i wanna know what is currently on my calendar for friday the 1st,calendar,17.619347,6.519165
+i'd like to hear a joke,tell_joke,9.050504,10.59616
+tell me things i can do in chicago,travel_suggestion,13.32592,15.864082
+when should change oil tell me please,oil_change_when,-4.482648,5.830222
+what is a fun fact about mt everest,fun_fact,11.481285,13.262207
+tell me a fun fact about tigers,fun_fact,10.364237,12.612344
+i need a clear calendar for april 15,calendar_update,18.32403,5.0501523
+can you add an event to my calendar,calendar_update,17.978199,5.4245296
+what is the expiration date for honey,food_last,0.32455012,14.153532
+please add final exams to my calendar for may 2,calendar_update,18.32851,5.9244165
+i need interesting baseball trivia from the nineteen eighties,fun_fact,10.218182,13.441263
+the reservation i created is not necessary anymore,cancel_reservation,10.828195,5.110312
+name some awesome things about dogs,fun_fact,10.218545,12.103302
+can you check when i'm next due for an oil change,oil_change_when,-5.1694417,4.9610004
+tell me any events scheduled on my calendar for april 15,calendar,18.788195,5.9340143
+what is on march 2 calendar,calendar,18.708353,6.1693926
+how long do i cook the chicken roast,cook_time,-1.4435741,17.523355
+what's on my calendar for march 01,calendar,18.654501,6.3495655
+stop please,cancel,10.112698,-3.9312193
+remove wrestlemania from my calendar for may 7th,calendar_update,17.415222,4.8144484
+give me a joke about water,tell_joke,9.139484,11.155557
+does my calendar have anything for january 1st,calendar,18.576958,5.911359
+what can i do in evans,travel_suggestion,13.832173,15.510673
+how long will chicken last in the freezer,food_last,-0.09976898,16.041077
+clear my calendar for september 6th,calendar_update,18.09157,4.579288
+how much time do i need to prepare chicken,cook_time,-1.2112334,17.58824
+stop speaking,cancel,9.509453,-4.3551335
+let me know some things i can do in dallas,travel_suggestion,13.352174,15.413128
+i want your volume decreased please,change_volume,8.44118,-6.983096
+change out of whisper mode,whisper_mode,12.234241,-8.263077
+i need guidance on changing my oil,oil_change_how,-2.6050415,-3.9149222
+communicate trivia about lebron james,fun_fact,10.024676,13.900016
+how often should i have my oil changed,oil_change_when,-4.5395617,6.6625767
+what kinds of fun touristy things are there to do in boston,travel_suggestion,12.709378,15.789955
+how do i know when i have to change my oil,oil_change_when,-4.930988,6.0566745
+cancel my reservation for 4 at red robin,cancel_reservation,11.361865,3.2612965
+"is it possible to change oil, if so how and what do i use",oil_change_how,-2.4551244,-3.8822024
+how long do i cook pork,cook_time,-1.5130937,15.932273
+please cancel that last task,cancel,10.942456,-3.401491
+cancel tonight's dinner reservation,cancel_reservation,12.096542,4.3482995
+what funny jokes do you know,tell_joke,8.299185,11.145759
+when should i get my car's oil changed next,oil_change_when,-4.9423847,5.6450877
+whisper mode,whisper_mode,11.912169,-8.446973
+turn on whisper mode,whisper_mode,11.877854,-8.570442
+i am not in need of my reservation anymore,cancel_reservation,10.855916,5.10271
+is my daughter's birthday on my calendar,calendar,17.821697,5.627921
+can i store bread in the freezer indefinitely and it will still be okay,food_last,-0.64308894,15.6811495
+i need to know somthing funny,tell_joke,8.937898,11.569752
+what are some cool tourist attractions in england,travel_suggestion,12.759144,15.983843
+i want to add a doctor's visit to the calendar for friday,calendar_update,19.466919,4.753372
+what jokes do you know,tell_joke,8.281568,11.072086
+i want you to add staff meeting to my calendar for march 1 at 10:00 am,calendar_update,18.830593,5.160294
+for how long should i bake the brownies,cook_time,-1.9458991,16.536905
+i need to be out of whisper mode,whisper_mode,12.228127,-8.584791
+call off the dinner reservation,cancel_reservation,12.398975,4.3347726
+have i scheduled anything on march 2nd on my calendar,calendar,18.512072,5.884648
+what experiences does kentucky offer,travel_suggestion,13.532906,15.2015
+find out the best tourist attractions to visit in moscow,travel_suggestion,12.868103,16.290234
+please inform me what is showing on my calendar for the 17th of march,calendar,18.785881,6.7089596
+enable whisper mode,whisper_mode,11.928533,-8.640717
+can you find some instructions on how to change my oil,oil_change_how,-1.9424626,-3.765484
+can you please cancel,cancel,11.17131,-3.8627512
+i want to hear something hilarious,tell_joke,9.028707,11.758374
+what's the funniest thing you know about artificial intelligence,tell_joke,8.669832,11.66075
+"you can remove the wedding from my calendar for march 12, 2019",calendar_update,17.377182,4.973852
+what kind of oil do i need to get and use for my car,oil_change_how,-3.1070585,-3.4792728
+what's the prep time for a garden salad,cook_time,-1.1407881,16.974945
+when does my milk expire,food_last,0.24285674,14.113192
+have i added my doctor's appointment to my calendar,calendar,19.36184,4.783012
+please switch to whisper,whisper_mode,11.311501,-7.907307
+give me a amusing fact about wolf,fun_fact,10.228018,12.207218
+how should i prepare to change my own oil,oil_change_how,-2.7750745,-3.8945656
+i do not actually need my reservation anymore,cancel_reservation,10.874574,5.0633044
+i want volume set to 4,change_volume,6.3067126,-9.597324
+can i cancel my reservations please,cancel_reservation,11.089055,4.310605
+tell me something amusing,tell_joke,8.887732,11.858493
+forget what i told you to do,cancel,10.626763,-3.6655383
+how long will the turkey take to cook,cook_time,-1.4666326,17.613228
+please use your whispering voice; i need quiet,whisper_mode,10.543988,-7.3519497
+i got to know how long can i keep pizza in the freezer for before it goes bad,food_last,-0.48553514,15.538109
+when should i change my car oil,oil_change_when,-5.04715,5.7898564
+can you cancel my reservation on tuesday for chris at stella maris,cancel_reservation,11.564239,4.3398705
+don't continue with what you're doing,cancel,10.450935,-3.639658
+tell me a cool fact about reno,fun_fact,11.2385435,13.5669985
+where can i find information on oil changes for my car,oil_change_when,-2.372369,-3.004221
+abort running program,cancel,10.905156,-2.9739966
+i have an appointment on the 5th put it on for 5pm,calendar_update,19.399412,4.836
+how long should i cook chicken,cook_time,-1.221101,17.618124
+repeal the dinner reservation,cancel_reservation,12.337483,4.337216
+hey ai cancel it now,cancel,11.199,-3.801037
+so how long do you think the chicken will take,cook_time,-1.1261399,17.590923
+what can i do to get rid of this event,calendar_update,17.413471,4.8505025
+quiet now,cancel,9.849095,-6.836013
+what is showing on my calendar for the 17th of march,calendar,18.818974,6.7437882
+can you get rid of my trip to the zoo from my calendar on march 1st,calendar_update,17.152014,4.6506405
+what is some trivia question about coffee,fun_fact,10.218477,13.4258995
+oranges expire in how long,food_last,0.25445873,14.45341
+quieter please,change_volume,9.430883,-6.992239
+please be quiet now,cancel,9.864681,-6.824097
+tell me how i know when i need an oil change,oil_change_when,-4.971512,6.0600233
+start using whisper mode,whisper_mode,11.914477,-8.634907
+how long can i expect chicken breast to be good for before expiration,food_last,-0.030548777,16.132393
+i love dad jokes can you tell me one,tell_joke,8.396326,11.179458
+put volume at 4,change_volume,6.2408023,-9.461379
+are there any events on my calendar for january 1st,calendar,18.707193,5.965298
+tell me a joke about jobs,tell_joke,8.849934,11.041608
+get me instruction to change oil,oil_change_how,-1.9082941,-3.7509115
+what's on my calendar for march 20th,calendar,18.584372,6.4860797
+tell me a joke about baseball,tell_joke,9.054197,10.881848
+turn volume up to 4,change_volume,6.2768736,-9.4619665
+please let me know how to change the oil,oil_change_how,-2.3127508,-4.0512695
+tell me how long it will take to prepare a lasagna,cook_time,-0.6123111,17.779516
+share with me a fun fact about outer space,fun_fact,11.018773,13.01885
+can you get me simple instructions on how to do an oil change,oil_change_how,-2.0155003,-3.7863202
+i need trip to the zoo on the calendar for june 4,calendar_update,17.010712,4.7135963
+what sort of things do people do in new york,travel_suggestion,12.873362,15.556346
+use your indoor voice please,whisper_mode,10.6956005,-7.5623446
+"about something,tell me some trivia",fun_fact,10.300533,13.394251
+cancel whisper mode,whisper_mode,12.485011,-8.617014
+clear my calendar for february 29th,calendar_update,18.141413,4.569202
+check my calendar for 30th birthday party,calendar,17.826365,5.8568063
+search my calendar for birthday party,calendar,17.79402,5.726766
+cancel that reservation for 8 at barney's,cancel_reservation,11.275393,4.432099
+what amount of time do i need to cook lobster for,cook_time,-0.93729526,16.996393
+get out of whisper mode,whisper_mode,12.322257,-8.586466
+clear my calendar for this friday,calendar_update,18.055794,4.598986
+what is the necessary amount of time required to prepare pot roast,cook_time,-1.5740932,17.432652
+engage whisper mode now,whisper_mode,12.004674,-8.575969
+use your quiet voice,whisper_mode,10.071617,-7.099387
+can you stop speaking,cancel,9.552842,-4.3155637
+would you please increase the speaker volume,change_volume,8.870271,-7.838227
+the reservation i have isn't needed any more,cancel_reservation,10.849204,5.110763
+i need to remove fishing from my calendar for soccer,calendar_update,17.094028,4.4910545
+i must know what is currently on my calendar for friday the 1st,calendar,17.646866,6.4936976
+what is the average time to go between oil changes,oil_change_when,-3.8634672,6.181071
+please don't talk any further,cancel,9.69244,-4.4428015
+i want to only use the whisper sound,whisper_mode,11.8241825,-7.919538
+when does my oil need some changing,oil_change_when,-4.597854,6.0207553
+turn the volume to level 4,change_volume,6.107249,-9.238997
+the volume should be decreased,change_volume,8.314323,-6.9245563
+take work from my calendar for may 7th,calendar_update,18.224834,6.2128034
+take my lunch plans off the calendar for march 13th,calendar_update,17.0337,5.414708
+help me find things to do in nashville,travel_suggestion,13.68342,15.372354
+would you mind switching to whisper mode,whisper_mode,11.717472,-8.320935
+what's a good joke,tell_joke,8.838141,10.962598
+get rid of my 4 pm reservation at the steakhouse please,cancel_reservation,12.050499,4.312082
+i need help with some fun tourist things to do in tokyo,travel_suggestion,12.722894,16.177391
+what is there on january 1st on my calendar,calendar,18.69926,6.0064116
+i'll have to cancel my reservation for tonight,cancel_reservation,11.277736,4.4103537
+look for funny jokes,tell_joke,8.372648,11.207996
+whisper from now on,whisper_mode,11.141851,-7.434508
+please only use a whisper when speaking,whisper_mode,10.837101,-7.48622
+should i get an oil change,oil_change_when,-4.7594056,5.6559315
+what's the best place to just get away from it all,travel_suggestion,13.411486,16.965466
+what are the steps i need to do to change the oil in my car,oil_change_how,-2.4630296,-2.480977
+i think we should whisper,whisper_mode,11.063113,-7.3242836
+please stop,cancel,10.109457,-3.9370158
+on tuesday you are supposed to have a meeting,calendar,18.835836,5.321429
+help me change my oil and what kind do i need,oil_change_how,-2.9731257,-3.904315
+i want the volume at 4 please,change_volume,6.0250406,-9.433159
+i need it louder,change_volume,9.191146,-7.025334
+i need you to stop talking,cancel,9.525627,-4.3160267
+what is the proper time to cook steak for,cook_time,-0.38992122,16.93753
+i need my dinner reservation canceled,cancel_reservation,12.07705,4.333327
+how much longer until i need to get my oil changed,oil_change_when,-3.863565,6.1238093
+what's my schedule like for thursday the 14th,calendar,18.120323,6.3940015
+engage whisper mode,whisper_mode,11.999665,-8.498479
+at how many miles am i required to get my oil changed,oil_change_when,-3.8265917,5.7537336
+i am itching to travel but don't know where to go,travel_suggestion,13.408968,16.968725
+i want to hear a joke that’s funny,tell_joke,9.016888,10.929968
+remove dinner with suzie from my calendar on march 1st,calendar_update,17.102503,5.2901106
+tell me some amazing trivia about radios,fun_fact,10.293525,13.471149
+tell me some trivia about dolphin,fun_fact,10.453615,12.975771
+how long to grill thick steaks,cook_time,-0.37719446,16.941143
+is it safe to eat chicken that has been in the fridge since monday,food_last,0.2737752,16.098085
+use whisper voice,whisper_mode,10.906409,-7.657114
+where should i travel to next,travel_suggestion,13.408096,16.97344
+the staff meeting on march 1 at 10:00 am needs to be added to my calendar,calendar_update,18.852516,5.1247063
+give me a cool fact about seattle,fun_fact,12.794033,15.28157
+give me your best joke,tell_joke,8.993148,10.975768
+eliminate,cancel,11.337255,-3.5331733
+i want a step by step explanation of how to change the oil in my car,oil_change_how,-2.391532,-2.7641118
+i'd like to hear a joke about donkeys,tell_joke,9.99067,11.922422
+"i don't need my reservation, can you cancel it",cancel_reservation,11.326433,4.332347
+can you find instructions on how to change oil in a car,oil_change_how,-2.209627,-2.989236
+remove the birthday party this friday from my schedule,calendar_update,17.441172,5.331655
+can you stop,cancel,10.184447,-3.81692
+increase your voice box,change_volume,8.841114,-7.742538
+what is the fridge life of spahghetti,food_last,-0.3560392,15.613993
+what's the preparation time for spaghetti,cook_time,-1.1087817,17.069075
+i want volume at 4,change_volume,6.120018,-9.519553
+am i due for an oil change yet,oil_change_when,-5.0820765,5.06959
+how long should i cook my turkey,cook_time,-1.4715127,17.565666
+i no longer need a table for four at chili's,cancel_reservation,12.332019,4.1292205
+can you tell me the most interesting fact about resistors,fun_fact,11.1461315,12.908859
+add a vet appointment for 5 pm on saturday,calendar_update,19.455778,4.7783914
+i don't want you to speak any more for now,cancel,9.583569,-4.461041
+is it possible for you to whisper for me,whisper_mode,11.013567,-7.328131
+put my parents anniversary on the calendar for next week on tuesday,calendar_update,17.582533,5.6747212
+turn up the volume level to 4,change_volume,6.128651,-9.244267
+what are the big tourist sites in sweden,travel_suggestion,13.024071,16.337267
+cancel the reservation i made for 8 pm at black rock,cancel_reservation,11.196873,4.481198
+please shut off whisper mode for now,whisper_mode,11.553728,-8.641631
+just shut up,cancel,9.904401,-4.1829085
+will it be all right for me to drink milk i've had in the fridge since tuesday,food_last,-0.08580226,14.345009
+let me hear something funny,tell_joke,8.969712,11.857619
+clear my calendar on march 1st,calendar_update,18.114145,4.5693316
+how to change oil of a car,oil_change_how,-2.658686,-2.7073247
+what are some touristy things to do in boston,travel_suggestion,12.661339,15.763681
+tell me fun facts on science topics,fun_fact,11.041421,12.959461
+"what kinds of oil can i use in my car, and how to i change the oil",oil_change_how,-3.0249934,-3.334765
+could you stop please,cancel,10.1544,-3.8480034
+how much time do i have to keep tofu in the freezer before it goes bad,food_last,-0.1309333,15.33255
+i want you to cancel the event called 'bachelorette party' on april 15,calendar_update,17.638807,4.5277905
+will you tell a joke,tell_joke,9.179073,10.659821
+can you tell me how to change my oil and what kind i use,oil_change_how,-2.7160935,-4.051449
+i need ideas for things to do in nashville,travel_suggestion,13.6232,15.3493185
+what's my oil change status,oil_change_when,-4.824304,5.3911757
+i want to hear cool bee facts,fun_fact,10.887442,12.396455
+i want you to quit the action,cancel,10.608193,-3.5186434
+what's there to do in seattle,travel_suggestion,12.9487295,15.291717
+pause,cancel,10.544021,-3.1982603
+please whisper,whisper_mode,10.992866,-7.335906
+can you throw out some suggestions to me of places to travel to,travel_suggestion,13.417293,16.979597
+i want the speaker to be louder please,change_volume,9.06113,-7.5443964
+im not gonna need the dinner reservation,cancel_reservation,12.276812,4.196009
+switch to whisper please,whisper_mode,11.350698,-7.9104595
+tell me fun facts of today,fun_fact,11.189223,12.907975
+is it possible to cancel the reservation at outback for the johnsons,cancel_reservation,11.007,4.357996
+change over to whisper mode,whisper_mode,12.135219,-8.161558
+read me some different cat trivia items,fun_fact,9.940137,12.670982
+"stop, just stop",cancel,10.157901,-3.850529
+i need you to cancel my reservation for 5 at red robin,cancel_reservation,11.375244,3.3071377
+terminate,cancel,10.900593,-2.9812207
+cancel my reservation at osteria for our party,cancel_reservation,11.128794,4.439716
+please cancel my reservation for dinner,cancel_reservation,12.117133,4.3461413
+when does milk expire,food_last,0.22465782,14.14979
+how long does bread last in the freezer,food_last,-0.7429525,15.761505
+i want a fun fact about london,fun_fact,11.353947,13.324141
+how long should i cook ham for,cook_time,-1.5965273,16.009682
+please switch to whisper mode for now,whisper_mode,11.470298,-8.537984
+please abandon the current job,cancel,10.752761,-3.3461661
+remove the recurring training meeting events off my calendar,calendar_update,17.5421,4.8215647
+can you teach me how to change my oil in my car,oil_change_how,-2.0177577,-3.2468472
+can you check what is on my calendar for tuesday,calendar,17.849775,6.295043
+ignore the previous command,cancel,11.455819,-3.4644036
+i want your volume lowered,change_volume,8.514047,-7.07694
+"the 21st, what is on my calendar",calendar,18.595243,6.594171
+what is one thing i might not know about nike shoes,fun_fact,10.833272,13.00214
+raise the volume to 4 please,change_volume,6.077065,-9.253388
+what date does my apple juice expire,food_last,0.23356256,14.44322
+"on the 22nd of this month, we need to clear our calendar so we can leave it open for mark to visit",calendar_update,18.200872,4.581226
+please tell me a really fun fact about facebook,fun_fact,11.268109,13.011686
+what should i do in france,travel_suggestion,13.010257,16.188103
+give me a joke about the subject of bugs,tell_joke,9.869475,12.053112
+is my meeting with frank on my calendar,calendar,18.088892,5.3964663
+can you end the task,cancel,10.896019,-3.1861012
+could you please switch to whisper mode,whisper_mode,11.534365,-8.3849125
+clear my calendar for the date of june 23,calendar_update,18.178823,4.5355363
+what do i have on my calendar for march 11,calendar,18.42714,6.377539
+say trivia about lebron james,fun_fact,10.060711,13.841825
+when i should change oil,oil_change_when,-4.4926724,5.7856326
+do i need to change my oil,oil_change_when,-4.5665402,5.8309736
+what can i do in hong kong,travel_suggestion,12.968524,15.702163
+add swimming to my calendar today,calendar_update,17.795946,5.799112
+please make sure the volume stays at 4,change_volume,6.132857,-9.425524
+how long should i cook roast for,cook_time,-1.593763,17.426706
+could you please get out of whisper mode,whisper_mode,12.160142,-8.640986
+i need to know when my oil should be changed,oil_change_when,-4.742118,5.8310866
+what do i have on my calendar for february 8,calendar,18.108582,6.300726
+what's on the calendar for march 4th,calendar,18.893332,6.328643
+what kind of oil do i need to change the oil in my car,oil_change_how,-3.1060896,-3.5064528
+can you cancel what you were doing,cancel,11.058191,-3.6519864
+when will tofu expire if i keep it in the freezer,food_last,-0.10892633,15.354457
+how long should i cook the asparagus for,cook_time,-1.2675798,17.252699
+tell me a joke about the topic of mice,tell_joke,9.895587,12.103015
+please speak louder,change_volume,9.603102,-6.767302
+ai stop talking,cancel,9.629222,-4.177408
+give me a cool fact about puppies,fun_fact,10.431765,12.281815
+do you know any trivia about ostriches,fun_fact,10.37012,12.898453
+lets fin out some fun facts about humans,fun_fact,10.959306,12.876225
+name unusual facts about the circus,fun_fact,11.077998,13.091178
+do i need any tools to change the oil in my car,oil_change_how,-2.738231,-2.7302542
+how do i choose the correct oil and how do i change it,oil_change_how,-2.8320324,-4.0320377
+what are the steps to change the oil in my car,oil_change_how,-2.51283,-2.5086808
+what do i have on my calendar for march 2,calendar,18.699902,6.2439513
+tell me a good joke,tell_joke,8.949729,11.039498
+what is a fun fact about dogs,fun_fact,10.415471,12.26051
+please cancel your present task,cancel,10.793685,-3.4570718
+i need to know how to change my car's oil,oil_change_how,-2.6570284,-2.807482
+how long do noodles need to cook,cook_time,-1.1194282,17.104027
+"you can remove the field trip from my calendar for march 12, 2019",calendar_update,17.299421,4.6905527
+how long can i keep milk in the fridge,food_last,-0.13482234,14.296441
+can you cancel my reservation tonight for chris at smith and wollensky,cancel_reservation,11.406591,4.3130193
+what are your best travel suggestions,travel_suggestion,13.394842,16.970156
+what are some fun cheap activities to do in colorado,travel_suggestion,13.304075,15.482471
+can you tell me how to change my oil please,oil_change_how,-2.3648894,-4.100703
+do i have anything to do march 2nd,calendar,18.71126,6.1282988
+tell me a fact i may not know,fun_fact,11.188055,12.755335
+can you tell me something i don't know about banks,fun_fact,11.21133,13.416279
+name some tourist things to do in chicago,travel_suggestion,13.165741,16.003525
+what are some fun silly things to do in new jersey,travel_suggestion,13.207838,15.487942
+go to the whisper voice,whisper_mode,10.988868,-7.70725
+do i have 30th birthday party on my calendar,calendar,17.713387,5.6952558
+"i've got some chips from monday, will they still be ok to eat",food_last,0.31720677,15.975756
+joe and i are to cancel the reservation at zephers now,cancel_reservation,10.823445,4.169626
+let me know some things to do in phoenix,travel_suggestion,13.280059,14.961031
+give me something interesting about stars,fun_fact,10.866947,12.853271
+make sure to set yourself to whisper mode before i go to the movie,whisper_mode,11.780159,-8.534412
+turn down your volume,change_volume,8.51683,-7.474795
+tell me a fun fact about computer,fun_fact,11.197323,12.982745
+i'd love to hear a joke,tell_joke,9.110384,10.58777
+i'd like you to use the whisper voice,whisper_mode,10.813097,-7.5788183
+how many minutes do i cook baked ziti,cook_time,-1.2732002,16.991617
+"help me plan my traveling itinerary for my trip to madrid, i want to see lots of sights!",travel_suggestion,13.341377,16.894117
+what are some hot travel destinations,travel_suggestion,13.392198,16.967073
+what is the next date that i should change my oil at,oil_change_when,-4.670695,5.335728
+tell me a dirty joke,tell_joke,8.9983015,10.971056
+how do i change my oil and choose the right oil,oil_change_how,-2.7638426,-4.0065055
+how long does it take to cook steaks,cook_time,-0.41125923,16.932518
+tell me something funny about people,tell_joke,8.923371,11.941948
+after how much time is it still safe to drink milk that is in the fridge,food_last,-0.10003032,14.364307
+switch over to whisper,whisper_mode,11.504998,-7.9988904
+how do i know when i need my next oil change,oil_change_when,-4.990797,5.960473
+how long will it take to fix shepherd's pie,cook_time,-3.820447,6.2107267
+when do i need to change my motor oil next,oil_change_when,-4.634051,6.2400317
+scrap,cancel,12.100915,3.3189762
+"tell me how to change my car's oil, and what type of oil i should buy",oil_change_how,-2.920166,-3.280654
+what is one fun fact,fun_fact,11.076722,12.875402
+when do people typically change their oil,oil_change_when,-4.4819655,6.063566
+did i set march 10th as my doctor's appointment,calendar,19.323355,4.8178406
+i need you to increase your volume,change_volume,8.71038,-6.940674
+do you know any good jokes,tell_joke,8.377495,11.08601
+please tell me how to change the oil in my car,oil_change_how,-2.5271635,-2.7627373
+tell me if there is an event called annual physical in my calendar,calendar,18.007841,5.4844
+what's a good place to vacation,travel_suggestion,13.457838,17.016209
+will i get sick if i eat the tuna salad from friday,food_last,0.27814573,15.98841
+when is my next oil change suggested,oil_change_when,-4.891645,5.250468
+retrieve events on my calendar,calendar,17.992918,5.4635906
+lower volume,change_volume,8.331388,-6.8676977
+"what are some fun, tourist sites to see in nyc",travel_suggestion,12.841172,15.782106
+delete all calendar entries on march 3,calendar_update,18.023336,4.638304
+i wanna know some things to do in phoenix,travel_suggestion,13.245204,14.99305
+stop whisper mode,whisper_mode,12.427708,-8.626548
+how long do you bake a cake,cook_time,-1.6325741,16.563581
+when should oil be changed in my car,oil_change_when,-5.0608892,5.795105
+how long should a cake bake,cook_time,-1.6660794,16.520441
+i wanna know when should i get my oil changed next,oil_change_when,-4.412752,5.5007434
+just stop talking,cancel,9.530458,-4.330366
+tell me some interesting trivia about dinosaurs,fun_fact,10.351792,12.889143
+tell me something that'll make me laugh,tell_joke,8.769702,11.765731
+stop doing that,cancel,10.254405,-3.812729
+help to turn on whisper mode,whisper_mode,11.812663,-8.606517
+is my car due for it's next oil change,oil_change_when,-5.1804175,5.0539103
+i am traveling to paris soon and would like some suggestions of what to do and see,travel_suggestion,13.00745,16.225107
+mind sharing a joke,tell_joke,9.197693,10.619372
+what are some funny things about food,tell_joke,8.728351,12.162493
+go into whisper mode,whisper_mode,11.612193,-8.599276
+how long before i neet to get my oil changed,oil_change_when,-3.8610625,6.1124043
+"never mind, cancel that",cancel,11.142688,-3.9503198
+"i've had eggs in the fridge since monday, are they still safe",food_last,0.65055114,16.280508
+delete jury duty from my calendar for may 7th,calendar_update,17.961048,4.475286
+can you teach me to change my oil,oil_change_how,-1.9731891,-3.4507124
+how long is an oil change good for,oil_change_when,-3.8940563,6.1551805
+what do i have going on for 12/03/2019,calendar,18.720692,6.4182687
+today's fun fact,fun_fact,11.245847,12.922495
+discontinue please,cancel,10.947312,-3.3692045
+i need to know how to change my oil and what kind of oil for a 2007 trailblazer,oil_change_how,-2.844773,-3.566288
+what is the most time i can keep a burrito frozen for before it's no good to eat,food_last,-0.3703423,15.621151
+explain some trivia about lebron james,fun_fact,10.042394,13.877813
+when should i change the oil in my car,oil_change_when,-5.079923,5.7709103
+what's happening on may 3rd,calendar,18.707201,6.550362
+cancel my reservation for dinner tonight,cancel_reservation,12.104057,4.325205
+will the chicken have gone bad if it's been in the fridge since monday,food_last,0.14505638,16.054815
+activate whisper mode,whisper_mode,11.932669,-8.577163
+how soon milk expires,food_last,0.211195,14.114348
+add farm trip to my calendar for friday,calendar_update,16.569693,4.720624
+when do i need to change my oil,oil_change_when,-4.605506,6.084744
+how long does it take to cook meal of tuscan,cook_time,-0.7786654,17.219687
+how long do you need to put the cuish in for,cook_time,-1.4061391,16.74299
+switch to quiet mode,whisper_mode,12.416912,-8.530149
+please do a search for entertaining activities for tourists in mexico city,travel_suggestion,12.927861,15.949161
+turn your volume up,whisper_mode,8.483166,-7.552259
+please cancel my reservation for chris at brio,cancel_reservation,11.386379,4.291074
+"i've had these burger patties in the freezer since saturday, are they still fine to cook",food_last,-0.30181727,15.910524
+can you help me pick some fun things to do in london during my trip,travel_suggestion,12.764832,15.98703
+what is the amount of time to keep milk refrigerated,food_last,-0.1469174,14.272947
+how often should i change the oil,oil_change_when,-4.539871,6.671264
+what actions do i take to change a car's oil,oil_change_how,-2.639354,-2.6007385
+there is no need to confirm my reservation,cancel_reservation,10.860097,4.9754553
+change the speaker volume to a louder one,change_volume,8.979591,-7.741523
+i need you to switch to whisper mode,whisper_mode,11.513457,-8.473132
+find out for me when my car is next due for an oil change,oil_change_when,-5.224219,5.0505633
+volume needs to be at 4,change_volume,6.16739,-9.526266
+how long do i need to cook chicken,cook_time,-1.1863762,17.622118
+how long is it safe to leave a burger in the refrigerator,food_last,-0.38353604,15.999025
+how long does it take to make mashed potatoes,cook_time,-0.66713256,17.142424
+tell the restaurant i cannot make it,cancel_reservation,12.295207,4.3971076
+i want whisper mode,whisper_mode,11.992029,-8.485005
+nix that reservation for 4 at strip house,cancel_reservation,11.488957,3.9203258
+is there a way to tell when i need my oil changed,oil_change_when,-4.97875,6.0523276
+can you whisper until i tell you not to,whisper_mode,11.003105,-7.287962
+how long does it take before you have to change your oil,oil_change_when,-3.8284922,6.139354
+i advise you to quit talking,cancel,9.534111,-4.3236914
+bring the volume up overall,change_volume,8.525409,-6.7980933
+could you please share a joke with me,tell_joke,9.118125,10.697922
+i want to cancel my reservation for network to xaga such,cancel_reservation,11.077805,4.352671
+tell me something neat about the ocean floor,fun_fact,10.980721,13.430004
+set the volume to 4 please,change_volume,6.2035074,-9.543357
+tell me a fun fact about butterflies,fun_fact,10.886486,12.664151
+what should i do for fun in tokyo,travel_suggestion,12.736342,16.143381
+how long am i supposed to cook pork loin,cook_time,-1.4580144,15.888312
+how long should i cook carnitas for,cook_time,-1.1455655,17.094975
+please put taco night on the house calendar date of january 6,calendar_update,17.460844,5.4934077
+please tell me a joke about dinosaurs,tell_joke,10.104568,12.416872
+how long will eggs keep in the freezer,food_last,0.65497774,16.441862
+decrease volume to 4,change_volume,6.217399,-9.218299
+apples expire in how long,food_last,0.23410444,14.553307
+when should my oil be changed,oil_change_when,-4.5418687,5.9661193
+volume should be increased to 4,change_volume,6.072279,-9.086913
+forget my previous command,cancel,11.453444,-3.442691
+can you speak louder,change_volume,9.630764,-6.91136
+how long should i cook a ny steak,cook_time,-0.38569787,16.950317
+what's something interesting about bees,fun_fact,10.872562,12.369157
+can you tell me any truly funny knock knock jokes,tell_joke,8.353612,11.083113
+i would like you to cancel the dinner reservation for williams at the palace tonight,cancel_reservation,11.877301,4.290971
+turn volume to the number 4 setting,change_volume,6.352248,-9.566656
+do i have any appointments on my calendar march 22nd,calendar,18.659382,5.6597133
+stop this process,cancel,10.923807,-2.863457
+let's switch to whisper voice,whisper_mode,11.138479,-7.7788253
+please be quiet,cancel,9.882549,-6.815548
+how long should i bake a cake,cook_time,-1.6776866,16.515375
+how long can i leave tuna casserole in the fridge,food_last,-0.73025733,15.950954
+i want your volume louder,change_volume,9.169715,-7.01169
+what steps do i take to change the oil for my car,oil_change_how,-2.5060856,-2.477411
+after 3 days in the fridge is rice safe to eat,food_last,0.5963765,15.623589
+i'd like some suggestions on where to go on my vacation this year,travel_suggestion,13.430866,16.993633
+tell me interesting facts about lighthouses,fun_fact,11.066967,13.300162
+look up recipe time for this,cook_time,-1.2560377,17.043821
+what are some good restaurants in chicago,travel_suggestion,13.250593,15.97074
+how long do i cook steak,cook_time,-0.36609536,16.919197
+tell me something funny about love,tell_joke,8.899498,11.906271
+how long does oil last in a car,oil_change_when,-4.987762,5.7832403
+i could really use a laugh right now,tell_joke,8.652214,11.537154
+i want to learn an interesting fact about cats,fun_fact,10.0089245,12.4915695
+"what do you suggest for entertainment in tampa, florida",travel_suggestion,13.304725,15.451735
+undo,cancel,11.335158,-3.658519
+what is the most unique piece of trivia relating to cameras,fun_fact,10.326673,13.37602
+so when should i change the oil,oil_change_when,-4.366905,5.625194
+can you teach me how to change my oil,oil_change_how,-1.9775327,-3.4805968
+increase the volume level to 4 now,change_volume,5.9909844,-9.129737
+will rice be ok in the fridge for 3 days,food_last,0.5440835,15.6328
+"hello, i need to cancel tonight's reservation for dinner",cancel_reservation,12.026475,4.3437724
+at what point will i need another oil change,oil_change_when,-4.6379204,5.7845488
+do not talk so loudly,whisper_mode,9.738861,-6.9700546
+you can stop talking ai,cancel,9.668983,-4.1990156
+i would love to hear a joke about the dmv,tell_joke,8.949818,10.653475
+can you turn this down,change_volume,8.490575,-7.3784375
+can you add a doctor's appointment to friday's calendar,calendar_update,19.448757,4.759004
+how long do i put sugar cookies in for,cook_time,-1.7455673,16.473534
+go back to normal mode please,whisper_mode,11.450453,-8.639879
+give me a fun fact about komodo dragon,fun_fact,10.489057,12.575093
+stop that,cancel,10.15803,-3.893269
+name the five star attractions in gatlinburg,travel_suggestion,13.541293,15.815849
+give me a cool fact about lsd,fun_fact,11.1292,12.886063
+tell me a fun trivia bit about artificial intelligence,fun_fact,10.276785,13.279631
+never mind,cancel,10.528208,-4.1701427
+mute,cancel,10.073106,-7.049011
+what is needed to change my oil,oil_change_how,-3.0770683,-3.8075876
+how long to cook steak for,cook_time,-0.37871835,16.957094
+how long does it take to bake a cake,cook_time,-1.6936984,16.526062
+how long should i microwave hot pockets for,cook_time,-1.1992258,16.70263
+tell the restaurant to cancel my reservation,cancel_reservation,12.076587,4.395202
+where's a good place to go if i want to see mountains,travel_suggestion,13.452863,16.955418
+what's an interesting tidbit about rivers,fun_fact,11.099207,13.500802
+"so it seems i have had pizza in the fridge since monday, so is it safe to eat",food_last,0.25498936,15.580129
+i need to put in a cancellation for the dinner plans tonight,cancel_reservation,12.131127,4.3628488
+what's the best restaurant in arizona for pizza,travel_suggestion,13.302485,14.877147
+delete my golf tournament event from tomrrow,calendar_update,17.530495,4.7990823
+what are some fun things to do in sweden,travel_suggestion,12.937585,16.235466
+check what's on my calendar for tuesday,calendar,17.781664,6.2902336
+i decide to switch out of whisper mode,whisper_mode,12.198593,-8.371422
+do i have calendar events on march 19th,calendar,18.583937,5.840282
+when is it time to change your oil,oil_change_when,-4.4682326,5.776081
+how long does it take to bake a pork loin,cook_time,-1.5178843,15.923834
+please abort the current process,cancel,10.953438,-3.0040295
+annul the reservation i created,cancel_reservation,10.825219,5.026261
+when's my next oil change due,oil_change_when,-5.099693,5.0897107
+scratch,cancel,12.1953745,3.2799451
+how to do an oil change,oil_change_how,-2.2949424,-3.7759023
+increase the volume,change_volume,8.539619,-6.80538
+tell me fun science facts,fun_fact,11.026824,12.881889
+how long can i keep beef in the freezer for before it gets nasty,food_last,-0.4212535,15.881449
+could you tell me a good joke,tell_joke,8.881292,10.94035
+i'd like you to tell me a joke,tell_joke,9.119824,10.602791
+when is my car's next oil change supposed to be,oil_change_when,-5.0165405,5.1622806
+how long does it take to make roast chicken,cook_time,-1.3111252,17.657097
+is cooked chicken still good after being refrigerated for two weeks,food_last,0.16454005,16.064257
+stop it now!,cancel,10.137709,-3.8826933
+lower the volume,change_volume,8.390351,-6.872697
+i need to delete my doctor's appointment scheduled for march 15th from my calendar,calendar_update,19.310368,4.633412
+i repeat cancel,cancel,11.223674,-3.715563
+is my day open for march 4th 2019,calendar,19.00742,6.1630344
+how long can i keep chicken in the freezer for before it goes gross,food_last,-0.053177796,16.062536
+what is on my schedule for the day of march 5th,calendar,18.47887,6.4929442
+the reservation i placed is not needed anymore,cancel_reservation,10.829367,5.089294
+when's the next time i should change my oil,oil_change_when,-4.5497465,5.3741345
+what's a cool and interesting thing about dogs,fun_fact,10.325427,12.19235
+can you cancel that,cancel,11.202246,-3.8922093
+please give me a really impressive piece of trivia about bubble gum,fun_fact,10.276125,13.431952
+give me a cool fact about new orleans,fun_fact,12.746236,15.18708
+give me a fun fact about dolphin,fun_fact,10.566555,12.707894
+how long does it take to prepare a lasagna,cook_time,-0.59747857,17.800556
+what's a neat fact about twinkies,fun_fact,11.094055,12.829155
+i need quiet; use whisper,whisper_mode,10.552695,-7.3800507
+what's the cooking time for chicken alfredo,cook_time,-1.010592,17.08379
+when do you think i should change my oil,oil_change_when,-4.515328,5.6506104
+what do i do to change my car's oil,oil_change_how,-2.7510533,-2.682857
+"i have tomatoes from tuesday, do you think those are still good",food_last,0.24880163,15.797981
+tell me a funny joke about men,tell_joke,8.879587,11.027475
+where do i have to be on 12/03/2019,calendar,18.63048,6.0404296
+be quiet,cancel,9.876438,-6.9211636
+my chinese food has sat in the fridge since friday but can i still eat it,food_last,0.41227448,15.743881
+what's the latest joke you've heard,tell_joke,8.971226,10.871365
+what are the most popular attractions in gatlinburg,travel_suggestion,13.524533,15.824243
+what is the proper cooking time for this,cook_time,-1.213737,16.993017
+can you turn off the process,cancel,10.909261,-2.9177248
+what are some funny jokes,tell_joke,8.505131,11.180346
+please start whisper mode,whisper_mode,11.588732,-8.555703
+"ai, stop!",cancel,9.853877,-4.0675287
+remind me of the date of the event called 'anniversary dinner,calendar,17.478018,5.52573
+i want to change the oil in my car,oil_change_how,-2.6275933,-2.7547376
+i need you to cancel my reservation for smith's at 6:15,cancel_reservation,11.326768,4.3718457
+what's the shelf life for eggs in the fridge,food_last,0.734339,16.404219
+take the event called surprise party off my calendar for june 2,calendar_update,17.750929,5.372727
+how long can i leave pizza in the fridge,food_last,-0.67075825,15.45419
+when is my car due for an oil change and lube,oil_change_when,-5.20697,5.155174
+how long do i need to cook chili for,cook_time,-1.2153593,17.034071
+i would like to hear a joke,tell_joke,9.065684,10.697556
+"if you don't mind, please switch to whisper mode",whisper_mode,11.460902,-8.425084
+figure out when my car will next need an oil change,oil_change_when,-5.1770544,5.6412835
+whisper mode activate,whisper_mode,11.9829235,-8.524813
+lasagna takes how long to cook,cook_time,-0.59019387,17.810051
+how long until i need to change my oil,oil_change_when,-3.8648498,6.155661
+schedule family dinner on my calendar on march 8,calendar_update,17.154772,5.406578
+what kind of oil should i use for my current car,oil_change_how,-3.041318,-3.401014
+how many miles can i drive before changing my oil,oil_change_when,-3.804536,5.7344337
+"ai, please stop your current task",cancel,9.881539,-4.049315
+i need to cancel my reservation for 2 at franklin's grille,cancel_reservation,11.120759,4.2667623
+i want you to stop your present action,cancel,10.560029,-3.5471313
+how long do you cook pasta for,cook_time,-1.0983081,17.087036
+what's the funnest thing for a tourist to do in iceland,travel_suggestion,12.873288,16.154514
+set 4 as the volume,change_volume,6.4302626,-9.623014
+i shall remove fishing from my calendar for soccer,calendar_update,17.074984,4.477846
+delete dentist from my calendar,calendar_update,18.916073,4.6262646
+tell me something funny about americans,tell_joke,9.081632,12.027203
+turn to volume 4,change_volume,6.299954,-9.512498
+i would like the volume lower,change_volume,8.458372,-6.980085
+i no longer need to go to the zoo on the 8th of this month,calendar_update,17.014473,4.7314544
+i need to know how long to do a pot roast in a slow cooker,cook_time,-1.5844969,17.47942
+"can you assist with an oil change, and what type of oil do i get",oil_change_how,-2.696262,-3.7168055
+find instructions for how to change the oil in a 2015 passat,oil_change_how,-1.9302903,-3.786966
+what does kentucky have to offer for things to do,travel_suggestion,13.493186,15.167177
+how long does pizza take,cook_time,-0.9022461,15.829584
+can you cancel improv class from my calendar for may 7th,calendar_update,17.943102,4.514918
+i would like you to stop what you were doing,cancel,10.397371,-3.6725035
+remove from calendar jesse's bbq on june 9th,calendar_update,17.266003,5.0199046
+make my volume louder please,change_volume,9.185353,-7.0358915
+what are some exciting things that are a must do for tourists visiting sedona,travel_suggestion,12.861221,16.146332
+would you please cancel the reservations for dinner,cancel_reservation,12.120153,4.2664
+can you whisper,whisper_mode,11.003194,-7.3573146
+set up whisper mode,whisper_mode,11.968429,-8.579079
+please stop doing what i asked,cancel,10.266656,-3.7715647
+do i have anything scheduled on my calendar for next tuesday,calendar,18.107393,6.164695
+i would like to do some things in phoenix,travel_suggestion,13.304871,14.970325
+what kind of entertainment is available in chicago,travel_suggestion,13.2798,15.997707
+how long do i boil eggs,cook_time,0.6349171,16.674067
+when does pork go bad in the fridge,food_last,-1.126468,15.699335
+how long does pizza take to cook,cook_time,-0.88690066,15.892281
+"in seoul, what things can i do",travel_suggestion,13.007691,15.920141
+what things are there to do in portland,travel_suggestion,12.97405,15.069771
+keep april 2nd wide open on my calendar please,calendar_update,18.320316,4.8757553
+i need you to your volume,change_volume,8.82273,-7.10104
+please suggest some fun tourist activities in tokyo,travel_suggestion,12.726833,16.141256
+raise volume,change_volume,8.453389,-6.803333
+i want to learn the process of changing oil,oil_change_how,-1.8905038,-3.4246213
+tell me a neat fact about the ocean,fun_fact,10.930491,13.3939295
+go ahead and your volume,change_volume,8.756509,-7.091976
+how long can pizza be in the fridge,food_last,-0.6617055,15.441871
+turn down your speaker,change_volume,8.509702,-7.655422
+can you tell me a few funny jokes,tell_joke,8.637501,11.082859
+forget reservation at longhorn for 4,cancel_reservation,11.186926,4.5915813
+go into whisper mode until the plane lands,whisper_mode,11.712467,-8.613692
+increase your vocals,change_volume,8.829699,-7.430171
+when am i due for an oil change,oil_change_when,-5.2040267,5.009378
+can i keep rice in the fridge for 3 days,food_last,0.53879744,15.653034
+immediately begin using whisper mode,whisper_mode,11.955237,-8.649639
+can you cancelt the reservation i have for dinner,cancel_reservation,11.977542,4.2724986
+when am i due for my next oil change,oil_change_when,-5.1806626,5.03845
+when do i change my oil,oil_change_when,-4.519256,6.0089016
+i won't require my reservation anymore,cancel_reservation,10.919268,5.074793
+i need to know trivia on star wars,fun_fact,10.225596,13.418184
+my next oil change is when,oil_change_when,-4.839012,5.197633
+i'd like to hear some trivia about florida,fun_fact,10.292094,13.468137
+i need my reservation to be cancelled for nugget to xiomara's restaurant,cancel_reservation,11.580984,4.357412
+i want to hear a fun fact about american presidents,fun_fact,9.38363,12.199812
+tell me a joke about rats,tell_joke,9.894935,12.130299
+i can't hear you,change_volume,9.333097,-7.1465254
+stop processing,cancel,10.911022,-2.8304431
+i need buy a birthday gift for sue taken off my calendar  it is on monday or tuesday last week,calendar_update,17.867098,5.932312
+when do i need to get an oil change,oil_change_when,-4.7317505,6.1101975
+tell me a non-offensive joke,tell_joke,8.986114,10.906248
+put the volume to 4,change_volume,6.2318096,-9.496972
+"the next time i change my oil, when should it be",oil_change_when,-4.465095,5.488384
+when should i get my next oil change,oil_change_when,-4.780874,5.3593154
+what oil do i need and how is it changed,oil_change_how,-3.0561104,-3.813216
+what's the funniest thing you know about peanuts,tell_joke,8.750063,12.117451
+get rid of tuesday the 5ths dinner,calendar_update,16.981441,5.3947773
+i need the cooking length for a turkey,cook_time,-1.4850798,17.576006
+please show me instructions on how to change my oil,oil_change_how,-1.973006,-3.8778307
+can i cancel my reservation for 4 at red robin,cancel_reservation,11.361886,3.3035238
+give me instructions on how to change the oil in my car,oil_change_how,-2.262658,-2.9279687
+i intend to learn how to change oil in my car,oil_change_how,-1.9780798,-3.2491252
+i want to increase your volume,change_volume,8.687265,-6.881127
+what's a fun fact relating to elephants,fun_fact,10.515906,12.491833
+tell me when the milk will expire,food_last,0.31918803,14.199541
+please talk quietly,whisper_mode,9.857275,-6.809418
+can you suggest some of the most popular travel destination,travel_suggestion,13.276099,16.840288
+what do i have to do on january 1st,calendar,18.623802,6.0096297
+can i increase my volume,change_volume,8.621606,-6.9120116
+are there any interesting activities to do in austin,travel_suggestion,13.224052,15.464966
+turn up the speaker volume,change_volume,8.570387,-7.760922
+tell me how long i will need to spend preparing a meat loaf dish,cook_time,-1.2931781,16.9058
+whisper please,whisper_mode,11.029576,-7.358338
+cancel my reservation for dinner this saturday,cancel_reservation,12.159482,4.3344464
+cancel my 6:00 reservation at the cheesecake factory,cancel_reservation,12.093284,4.367424
+when will i need another oil change,oil_change_when,-4.778555,5.637635
+how long until my milk expires,food_last,0.19205596,14.190801
+lower your volume,change_volume,8.477221,-6.9692397
+how do i go about changing the oil in my car,oil_change_how,-2.6860464,-2.6578605
+do i need to have my oil changed after 3000 miles,oil_change_when,-3.9689543,5.7967834
+put together a list of instructions for me on how to change the oil in my car,oil_change_how,-2.216069,-2.9230704
+give me step by step instructions for changing my oil,oil_change_how,-1.9967802,-3.8813243
+what kind of oil do i need to use for my car,oil_change_how,-3.0960724,-3.526836
+add my dentist appointment to the calendar,calendar_update,19.274582,4.756843
+make me laugh with a funny joke,tell_joke,8.731792,11.479222
+let's start whispering,whisper_mode,10.6395855,-7.37385
+how long should i cook the cookie dough,cook_time,-1.6605589,16.420708
+"you can remove the dinner party from my calendar for january 21, 2019",calendar_update,17.262455,5.2236643
+at what time should i get my oil changed next,oil_change_when,-4.2674932,5.6782517
+tell me a fact,fun_fact,11.297584,12.794739
+can you please turn your volume down,change_volume,8.596935,-7.2766933
+i want to know how to change my oil,oil_change_how,-2.424087,-4.038992
+get rid of my dinner reservation,cancel_reservation,12.325061,4.363525
+don't talk anymore,cancel,9.522617,-4.364964
+i want to switch out of whisper mode,whisper_mode,12.277498,-8.263273
+"change to whisper mode, please",whisper_mode,11.537747,-8.375643
+how about you tell me a joke,tell_joke,9.200532,10.637284
+what are some of the attractions in gatlinburg,travel_suggestion,13.516617,15.836002
+i need you to go into whisper mode,whisper_mode,11.545844,-8.584023
+what events do i have going on on march 11th,calendar,18.68675,6.153258
+"hey siri, please cancel my reservation at the loft for 5",cancel_reservation,11.331355,3.628196
+show me my calendar for next sunday,calendar,17.765615,6.3976693
+"at which mileage, should i get my oil changed",oil_change_when,-3.942608,5.7169347
+turn down your volume please,change_volume,8.552115,-7.372443
+please give me some ideas of fun tourist activities to do while i am in paris,travel_suggestion,12.8843,16.105068
+noodles need to cook for how long,cook_time,-1.0927919,17.056953
+tell me a joke about cows,tell_joke,9.949601,12.013931
+how long do i have before frozen chicken will go bad,food_last,-0.012241773,16.083809
+tell me a dog joke,tell_joke,9.940585,12.031082
+give me a fun fact about otters,fun_fact,10.4717045,12.570274
+do you know any jokes about librarians,tell_joke,8.341329,11.029539
+how long until my cereal is ruined,food_last,0.016468287,15.148835
+diy oil change,oil_change_how,-2.541759,-3.8312037
+i would you like to learn something interesting about bees,fun_fact,10.835798,12.315261
+do i have anything on my calendar next sunday,calendar,18.005653,6.28584
+help me pick a new location to travel to,travel_suggestion,13.437848,17.013199
+please tell me a joke,tell_joke,9.13406,10.770732
+what do i need to change the oil in my car,oil_change_how,-3.1161757,-3.4978247
+bake time for brownies,cook_time,-1.9791317,16.53039
+remove my reservation at outback for timmy,cancel_reservation,10.993031,4.791476
+i need to know how long to cook chicken for,cook_time,-1.2592627,17.604446
+is the marathon on friday added to my calendar,calendar,18.003202,6.1267715
+help me learn something intriguing about turtles,fun_fact,10.27529,12.61114
+let me know something funny,tell_joke,8.873686,11.841963
+how long does it take to cook ham,cook_time,-1.6104939,15.999988
+"ai, shut up",cancel,9.852468,-4.1203895
+cancel it,cancel,11.221881,-3.729501
+i want a lesson on changing my oil,oil_change_how,-1.9543558,-3.4448814
+how long can i store eggs in the fridge,food_last,0.72101164,16.436718
+how long should i cook a steak for,cook_time,-0.40088934,16.924164
+please cancel my reservation for tim at jb's,cancel_reservation,11.1883135,4.451065
+what do i have scheduled on 3/15,calendar,18.489456,6.553123
+"when visiting chicago, what things can i do there",travel_suggestion,13.18612,15.944854
+how to cancel,cancel,11.21087,-3.6781116
+i gotta cancel my reservation for barry at red robin,cancel_reservation,11.311434,3.2166574
+"stop working on it, i need something else",cancel,10.750636,-3.5402179
+roughly how long can i leave bananas in the freezer before i have to throw them out,food_last,-0.39297503,15.457771
+how long to i bake the brownies,cook_time,-1.9442277,16.519547
+can you cancel the reservation i have at 4 pm at ruth's,cancel_reservation,11.458257,4.407777
+what is the interesting trivia about human bodies,fun_fact,10.60534,12.959063
+cancel event scheduled for this afternoon,calendar_update,17.78438,4.448301
+what's on my calendar for the 18th of march,calendar,18.650682,6.579381
+cancel my dinner reservation please,cancel_reservation,12.141281,4.3449144
+tell me a joke about dogs,tell_joke,9.961121,12.000442
+what have i got planned for the date of april 23,calendar,18.705116,6.6412992
+i want list of tourist destination for paris,travel_suggestion,12.972801,16.351
+can you tell me how to change the oil in my car,oil_change_how,-2.5012639,-2.7176301
+what is the best way to remove this appointment,calendar_update,19.318398,4.630759
+what are some fun tourist things to do in mumbai,travel_suggestion,12.663838,16.123236
+please turn on whisper mode because i am about to be in class,whisper_mode,11.59175,-8.688653
+please your volume,change_volume,8.801816,-7.05927
+please abort the current task,cancel,10.827839,-3.3001697
+change to something that's not whisper mode,whisper_mode,12.1642475,-8.166869
+check my calendar for saturday,calendar,17.674877,6.3788404
+did i put an item on the calendar to get the dog neutered,calendar,18.74457,5.320598
+about how long should you cook lasagna,cook_time,-0.5995325,17.773367
+do you have any monkey jokes,tell_joke,8.292574,11.098063
+i no longer need my reservation with carl at umami,cancel_reservation,10.543736,4.625734
+i need to remove an event from my calendar,calendar_update,17.533802,4.9282236
+what do i have planned for tomorrow,calendar,17.980183,6.7128425
+tell me something funny about pizza,tell_joke,8.699112,12.120884
+what weight oil do i need and how do i change the oil for my chevy truck,oil_change_how,-3.079687,-3.5629
+tell me a random fact,fun_fact,11.205058,12.798081
+"please cancel what you are doing, i've changed my mind",cancel,10.709285,-3.6351836
+what are the main attractions in gatlinburg,travel_suggestion,13.544368,15.842648
+would you stop talking please,cancel,9.621564,-4.280583
+speak quiet as though you were in a church,whisper_mode,9.906358,-6.997542
+when would it be required for me to get my oil changed,oil_change_when,-4.6940207,6.125373
+when do i have to change oil,oil_change_when,-4.5923986,6.099505
+tell me what is on my calendar for may 3,calendar,18.75047,6.545318
+"i can't hear you, stop whispering!",whisper_mode,10.46566,-7.3274574
+"actually, cancel that",cancel,11.243022,-3.8849974
+please use whisper mode,whisper_mode,11.616108,-8.495312
+halt the process,cancel,10.8952465,-2.8630638
+lets hear an interesting fact about funko pops,fun_fact,10.934247,12.929703
+tell me a fun fact about cars,fun_fact,11.178488,12.947085
+check if it is ok to eat cheese that has been in the refrigerator since last tuesday,food_last,0.15266405,15.525754
+keep volume at 4 all the time,change_volume,6.26421,-9.510322
+add my next doctor visit to my calendar,calendar_update,19.43224,4.7586026
+switch to your whispering voice please,whisper_mode,10.638317,-7.4394317
+how long will it take to cook a lasagna,cook_time,-0.5938579,17.795425
+volume to whisper voice,whisper_mode,10.914803,-7.6470575
+tell me something funny now,tell_joke,8.902218,11.876052
+what is there to do besides drink in germany,travel_suggestion,12.949263,16.141953
+i need to know how long can i keep pizza in the freezer for before it goes bad,food_last,-0.58360994,15.492164
+do i have a note on the calendar for black friday,calendar,18.013847,6.214318
+put cancel abc on my calendar for next thursday,calendar_update,17.90186,4.5204606
+tell me all about the trivia with friends,fun_fact,10.279502,13.42136
+when must i change the oil in my car,oil_change_when,-5.0412602,5.835429
+cancel my reservation for 6 pm at sidetracks,cancel_reservation,11.052922,4.357886
+is there a time limit on leaving pork in the fridge,food_last,-1.0740042,15.6979065
+add to friday's calendar a doctor's appointment,calendar_update,19.450485,4.738163
+"i don't need my reservation, cancel it",cancel_reservation,11.149211,4.428443
+how long will my milk be good in the fridge,food_last,-0.11831134,14.35098
+i want to be out of whisper mode,whisper_mode,12.261685,-8.608939
+i want to hear you tell a joke,tell_joke,9.0615635,10.692858
+pull up my calendar and tell me what i have scheduled for march 30,calendar,18.580053,6.32442
+how do i change my oil,oil_change_how,-2.451231,-4.067434
+add my birthday to my calendar for next month on the 5th,calendar_update,18.108692,5.875636
+when is the milk date before used,food_last,0.26146635,14.122608
+i put some leftover stew in the fridge and want to know how long it'll last,food_last,-0.18064901,15.8374
+increase the speaker volume please,change_volume,8.894284,-7.7913504
+can you see whether i have an event called amy's surprise party on my calendar,calendar,17.877811,5.5133967
+what do i have planned on my calendar for next sunday,calendar,17.846651,6.555349
+i want to know about tourist places for bangkok,travel_suggestion,12.89141,16.471409
+"in portland, what things are there to do",travel_suggestion,13.01043,15.096767
+where should i travel if i want to go to a nice beach,travel_suggestion,13.453871,17.029795
+is event on my calendar,calendar,17.920664,5.394509
+clear my calendar for april 20th,calendar_update,18.157024,4.6106696
+change my reservation with carl at umami to canceled,cancel_reservation,10.538601,4.5553975
+what is the most fun fact you know about the film industry,fun_fact,10.861873,13.011783
+delete lunch with steve on friday please,calendar_update,16.966772,5.423707
+go ahead and delete the doctor appointment i have scheduled for monday,calendar_update,19.370708,4.679989
+can you tell me a fun fact regarding cars,fun_fact,11.212273,12.88234
+tell me something cool about elephants,fun_fact,10.425304,12.453536
+switch whisper mode off,whisper_mode,12.414193,-8.524322
+how long do you cook a salmon,cook_time,-1.2759826,17.281145
+how long does it take pork to cook,cook_time,-1.4701986,15.88756
+how can i change my oil for my car,oil_change_how,-2.7229145,-2.772475
+abandon the dinner reservation i made,cancel_reservation,12.3463745,4.3481855
+can you cancel my reservation for dinner tomorrow,cancel_reservation,11.974721,4.209983
+cancel that input,cancel,11.433458,-3.549242
+how long should i cook the pasta for,cook_time,-0.9887376,17.123205
+the sauce must simmer then go in the oven but for how long,cook_time,-1.3503283,16.822315
+when will my oil change be due for this car,oil_change_when,-5.2096148,5.134029
+what is currently on my calendar for friday the 1st,calendar,17.57697,6.499505
+how long can you go between oil changes,oil_change_when,-3.8294384,6.1644645
+jello should stay in the fridge for how long,food_last,-0.66019416,15.434257
+put volume setting on number 4,change_volume,6.3575325,-9.591066
+what’s your favorite funny joke,tell_joke,8.841071,11.043933
+how long to microwave a frozen dinner,cook_time,-1.06382,16.352928
+do i have anything scheduled for thursday the 14th,calendar,18.223673,6.2882223
+give me instructions for an oil change,oil_change_how,-1.9497561,-3.7791772
+put appointment on my calendar for tomorrow,calendar_update,19.33557,4.7965283
+shut up!,cancel,9.975152,-4.1162066
+can you please instruct me on the proper way to change the oil in my car,oil_change_how,-2.577772,-2.6889532
+is there anything neat to do in boston,travel_suggestion,12.669191,15.734978
+you need to speak softer,whisper_mode,9.708136,-6.935027
+can you share a humorous joke with me,tell_joke,8.901194,10.9668665
+how long until my next oil change,oil_change_when,-3.9807355,6.055345
+when does the honey expire,food_last,0.29725328,14.209459
+what fun is there to do in england,travel_suggestion,12.745112,16.002188
+you have yo go to school on calendar,calendar,18.226603,5.998529
+i want to explore a new place but don't know where i should go do you have any ideas,travel_suggestion,13.441539,17.004522
+i want whisper mode to be switched off,whisper_mode,12.409883,-8.492879
+how do i change my oil out and what kind should i use,oil_change_how,-2.8654573,-3.9799268
+because of circumstances i don't need my reservation anymore,cancel_reservation,10.86353,5.0829134
+take pat's appointment off my calendar,calendar_update,19.376139,4.6921096
+go to whisper mode until this movie is over,whisper_mode,11.988942,-8.599887
+exit out of whisper mode,whisper_mode,12.341987,-8.56705
+im not going to dinner tonight,cancel_reservation,12.324987,4.289797
+change sound setting to whisper,whisper_mode,11.95059,-8.0009775
+set the volume at 4 for me please,change_volume,6.157973,-9.515778
+"cancel my reservation for dinner tonight, please",cancel_reservation,12.0547,4.246309
+"that's enough, don't say anymore please",cancel,9.962323,-4.3153844
+does my calendar show anything for thursday the 14th,calendar,17.977423,6.2083683
+i can't be loud and need you to speak more quietly,whisper_mode,9.763083,-6.9096417
+this process needs to stop,cancel,10.904689,-2.8666136
+"can you change the oil, with what and how",oil_change_how,-2.5254674,-3.7277768
+how long should i wait before i can bake bread with homemade dough,cook_time,-1.4783001,16.295807
+when does the jerky expire,food_last,0.25013915,14.249927
+when should i change this oil,oil_change_when,-4.4473825,5.7832828
+please make sure the volume is on 4,change_volume,6.101537,-9.430484
+please use whisper,whisper_mode,10.858731,-7.529445
+can you make me laugh,tell_joke,8.772433,11.650363
+adjust volume setting to 4,change_volume,6.370681,-9.551872
+tell me a pun,tell_joke,9.069704,11.026672
+how long can i keep bison in the freezer for before it spoils,food_last,-0.44325584,15.892953
+can i safely eat chicken that i've had in my fridge since monday,food_last,0.23668043,16.043488
+how long do i cook chicken breast,cook_time,-1.12564,17.6747
+you need to shut it,cancel,10.441874,-4.2733383
+what oil do i use when changing oil and how do i do it,oil_change_how,-2.6977382,-3.9859197
+"that was a mistake, undo that",cancel,11.330463,-3.7909446
+tell me some things to do in phoenix,travel_suggestion,13.278975,14.998797
+"go back to whisper mode, please",whisper_mode,11.476096,-8.6755295
+are there any events on my calendar for march 2nd,calendar,18.672684,5.9038486
+can you please lower the volume please,whisper_mode,8.508328,-7.0492554
+i'd like to hear a fun fact about the nfl,fun_fact,11.272988,12.922268
+whisper mode must be left,whisper_mode,11.513976,-8.541855
+when do i need to change my motor oil,oil_change_when,-4.548644,6.223658
+"i have had farm fresh eggs in the fridge for a few months, are they still okay to ingest",food_last,0.6855088,16.351444
+steps to change car oil,oil_change_how,-2.4951172,-2.4477913
+what oil do i need for my honda crv and how do i change it,oil_change_how,-3.0272021,-3.8425314
+add to my friday calendar a doctor's appointment,calendar_update,19.45055,4.7249064
+i would like to know how to perform an oil change,oil_change_how,-2.269595,-3.816502
+i'd like to hear a lawyer joke,tell_joke,8.718303,10.8073015
+"whisper mode, please",whisper_mode,11.881822,-8.381211
+can you be quiet please,cancel,9.845083,-6.8577027
+please increase the volume to 4,change_volume,6.0084333,-9.089829
+how many miles can i drive before needing the next oil change,oil_change_when,-3.796731,5.7390656
+tell me what is showing on my calendar for the 17th of march,calendar,18.783157,6.740706
+what time should i leave this in the oven,cook_time,-1.4047383,16.671732
+i need anniversary dinner added to my schedule for march 7,calendar_update,17.39102,5.511676
+i need to cancel my reservation after all,cancel_reservation,11.126509,4.390752
+provide me with ideas of things we can do in charlotte,travel_suggestion,13.6900625,15.411613
+how long can i keep macaroni in the fridge before it spoils,food_last,-0.36976364,15.548141
+tell me the procedure for changing oil in a car,oil_change_how,-2.5792263,-2.5955803
+what is there to do in evans,travel_suggestion,13.807411,15.523656
+remove my date with liz from my calendar on april 1st,calendar_update,18.147194,4.5681796
+"check my calendar for march 4th 2019, please",calendar,18.809586,6.1894255
+write down appointment for tomorrow on my calendar,calendar_update,19.272182,4.8795304
+no more talking,cancel,9.49623,-4.4132533
+add mom's birthday to my calendar on april 12,calendar_update,17.749182,5.596109
+when do i need to change my oil next,oil_change_when,-4.62229,6.0504985
+i want to add farm trip to my calendar for friday,calendar_update,16.55413,4.728877
+can you tell me a fun fact about elephants,fun_fact,10.502391,12.543308
+name some things i should do while in evans,travel_suggestion,13.868497,15.531595
+how do i change the oil in my car,oil_change_how,-2.5879073,-2.649094
+is there an event titled anniversary dinner on my calendar,calendar,17.530575,5.522362
+"for friday, add a doctor's appointment to my calendar",calendar_update,19.47374,4.7654796
+can i do a lot in nashville,travel_suggestion,13.710458,15.375398
+what's the preparation time for this dish,cook_time,-1.2596533,16.97224
+when should i get my oil changed,oil_change_when,-4.44693,5.7077727
+what's the max time i can leave a green pepper in the fridge,food_last,-0.5994099,15.42636
+give me harry potter trivia,fun_fact,10.228054,13.414958
+turn up the volume,change_volume,8.4768505,-7.5401225
+make the volume 4,change_volume,6.2893686,-9.621804
+when is my next oil change due,oil_change_when,-5.1211376,5.082393
+turn the volume up,change_volume,8.402397,-7.6045594
+i'm going to need you to be quiet now please,whisper_mode,9.895238,-6.842761
+change mode to whisper,whisper_mode,12.140867,-8.172749
+destroy process,cancel,10.937695,-2.8183217
+6 inch voices please,whisper_mode,10.713643,-7.708154
+do you know of any activities in nashville,travel_suggestion,13.699958,15.385573
+please put annie's baby shower on march 30 in my calendar,calendar_update,17.92335,5.421375
+if i have garlic from sunday is it still fine to use,food_last,0.26737136,15.544093
+how long does a roast take,cook_time,-1.6195592,17.479229
+tell me everything on my calendar for may 1,calendar,18.831198,6.57374
+i have what to do on wednesday,calendar,17.960377,6.7519126
+find the favorite destination for traveling this year,travel_suggestion,13.420992,16.992128
+remove celebrate anniversary from my calendar,calendar_update,17.449137,4.9820647
+do you change the oil in your car more than once a year,oil_change_when,-4.5787168,6.634058
+what do i have planned for 3/5,calendar,18.523752,6.660108
+what's a fun fact about axolotls,fun_fact,10.825551,12.725462
+would you tell me a joke,tell_joke,9.236414,10.5984955
+"i want to bake brownies, how long do they bake for",cook_time,-1.9791906,16.508968
+please stop doing that,cancel,10.256526,-3.822306
+what's a nice place to visit a beautiful beach,travel_suggestion,13.462924,17.032053
+do you know how to change car oil,oil_change_how,-2.612293,-2.664426
+"cancel my reservation for dinner this friday, please",cancel_reservation,12.146643,4.2716303
+please scratch my march 1st meeting off my calendar,calendar_update,18.337587,5.4750204
+do you know any good jokes about zebras,tell_joke,9.355138,11.58741
+i want to hear a joke about elephants,tell_joke,10.240366,12.28079
+within what time is is fine to eat cooked tilapia kept in the fridge,food_last,0.19192806,15.588179
+lets hear a fact,fun_fact,11.324667,12.770901
+make sure my calendar is clear for june 1,calendar_update,18.201164,4.5703115
+show me some things to do in gatlinburg,travel_suggestion,13.527946,15.772184
+whisper mode off,whisper_mode,12.39495,-8.603643
+i need you to increase your speaker volume,change_volume,8.869082,-7.768488
+could i cancel my reservations,cancel_reservation,10.989489,4.362096
+give me a fun fact about koala,fun_fact,10.540294,12.569226
+do you know any jokes,tell_joke,8.346054,11.054784
+limit your volume,change_volume,8.5074005,-6.811812
+how often should you get an oil change,oil_change_when,-4.536671,6.673905
+how long can i keep a ham in the freezer,food_last,-0.8310825,15.83268
+what appointments do i have tomorrow after 1:00pm,calendar,19.02108,5.435089
+i wanna hear something funny,tell_joke,8.913072,11.759575
+do i have any appoints set for my calendar april 3rd,calendar,18.675827,5.577885
+what is expire of milk,food_last,0.25727513,14.117759
+"my oil seems pretty black, does that mean i should change it",oil_change_when,-4.577761,5.8165116
+how long should i cook the steak for,cook_time,-0.43918362,16.969196
+how long will it take me to make baked chicken,cook_time,-1.1179801,17.48735
+"please add to my calendar for the staff meeting that is scheduled on march 1, 2019 at 10 am",calendar_update,18.803051,5.1937294
+can you tell a joke,tell_joke,9.208336,10.643038
+do you have any funny jokes you can tell,tell_joke,8.334092,11.163327
+tell me a fun fact about mt everest,fun_fact,11.492738,13.292755
+i need your volume increased,change_volume,8.714084,-6.923972
+tell me something interesting about bees,fun_fact,10.8500185,12.4108925
+how long is the chicken gonna take,cook_time,-1.1451322,17.583767
+when is my oil change expected,oil_change_when,-4.8216724,5.386435
+please tell me an interesting tidbit about the roman empire,fun_fact,10.113149,13.217001
+rescind,cancel,11.293531,-3.7700417
+tell me something interesting about dogs,fun_fact,10.29356,12.1532545
+the speaker volume needs to be increased,change_volume,8.913983,-7.7836328
+on the 26th what is on the table for my calendar,calendar,18.361427,6.545547
+how long should i boil eggs,cook_time,0.6522375,16.652592
+what appointments do i have on thursday the 14th,calendar,18.656261,5.6981006
+what's a fun fact about elephants,fun_fact,10.491929,12.504726
+let's hear a joke from you please,tell_joke,9.110172,10.65206
+what are some of sweden's best sights,travel_suggestion,13.041262,16.402586
+how long should i spend preparing roast beef,cook_time,-1.6091154,17.428009
+tell me a few facts about cats,fun_fact,10.012997,12.516798
+could you cancel my reservation for winters at the palace tonight,cancel_reservation,11.48405,4.304764
+what does my schedule look like for april 1,calendar,18.63781,6.0338335
+help me figure out how to change my oil,oil_change_how,-2.5033758,-4.084849
+how many days before milk expire,food_last,0.2040763,14.165797
+can i cancel my reservations,cancel_reservation,11.004955,4.330312
+please go ahead and increase your speaker volume,change_volume,8.888427,-7.828051
+can you tell me about the best tourist attractions in sweden,travel_suggestion,13.017014,16.356506
+how long does it take to boil an egg,cook_time,0.62447745,16.69698
+end my reservation with carl at umami,cancel_reservation,10.536234,4.577691
+can you tell me some dog jokes,tell_joke,9.963052,11.95471
+when do ribs expire,food_last,0.12068964,14.704548
+get rid of my 2 pm reservation at ruth's steakhouse,cancel_reservation,11.851871,4.484157
+please turn on whisper voice,whisper_mode,11.2875,-7.984953
+do i have any calendars set for may 12th,calendar,18.534992,5.9436474
+do you know any fun facts about the ocean,fun_fact,10.966727,13.348334
+what is there to do in craberra,travel_suggestion,13.211053,15.621906
+can you switch off,cancel,10.7738085,-3.7724946
+how long will eggs last in the fridge,food_last,0.77048403,16.42343
+i really must know when should i get my oil changed next,oil_change_when,-4.4419684,5.492699
+diy oil change and oil type,oil_change_how,-2.6708179,-3.7997832
+go ahead and close the reservation,cancel_reservation,11.079125,4.528144
+please delete the reservation for 3 people at outback,cancel_reservation,11.094178,4.7193527
+when will i need to change my oil again,oil_change_when,-4.4044194,6.1149273
+"is the meatloaf still good to eat, i've had it in the refrigerator since last monday",food_last,0.071364366,15.832787
+make the volume set to 4,change_volume,6.378464,-9.56038
+teach me how to change my oil,oil_change_how,-2.0247333,-3.4403007
+add staff meeting to my calendar for march 1 at 10:00 in the morning,calendar_update,18.84233,5.132476
+volume set to 4,change_volume,6.3794575,-9.626351
+tell me something funny about cats,tell_joke,9.909904,12.392865
+i need to cancel my dinner reservation,cancel_reservation,12.218982,4.4500566
+about how long before i need another oil change,oil_change_when,-3.9187474,6.077252
+how long can i expect to keep steak in the freezer,food_last,-0.513069,16.043976
+i want to know all about trivia for the office,fun_fact,10.284419,13.39691
+turn off whisper mode,whisper_mode,12.362607,-8.637843
+tell me how long i ought to spend preparing fajitas,cook_time,-1.112199,17.148823
+how long do the brownies have to cook,cook_time,-1.9586595,16.549538
+how do i go to whisper mode,whisper_mode,11.848522,-8.584216
+can you cancel,cancel,11.201163,-3.7915092
+i'd like to cancel my reservation for 5 at hoss's steak house,cancel_reservation,11.526759,3.9226685
+oops cancel that,cancel,11.213779,-3.9156628
+i'd like to cancel the party of 7 we reserved at the olive garden,cancel_reservation,11.891301,4.4110665
+repeat that fun fact about mt everest,fun_fact,11.50251,13.266003
+i would like to hear a funny joke,tell_joke,9.035972,10.795343
+cancel my reservation for dinner,cancel_reservation,12.183952,4.4132624
+make sure to add to my calendar the staff meeting for march 1 at 10 am,calendar_update,18.743153,5.2220507
+list some neat stuff about rats,fun_fact,9.96028,12.206243
+tell me a joke about cats,tell_joke,9.880788,12.342314
+should i cook this for a long time,cook_time,-1.2600971,17.171658
+change from whisper mode,whisper_mode,12.130588,-8.134884
+i want to learn something about apples,fun_fact,0.31222504,14.575958
+i must add farm trip to my calendar for friday,calendar_update,16.572512,4.737737
+tell me about something some trivia,fun_fact,10.219945,13.492502
+what's an interesting fact about flamingos,fun_fact,10.85688,12.789142
+when does my oil need to be changed,oil_change_when,-4.6327667,6.0734935
+when do you think i ought to change the oil in my car next,oil_change_when,-4.671347,5.480143
+undo this process,cancel,11.320885,-3.5841734
+give me instructions to change my oil,oil_change_how,-1.9555562,-3.8587432
+are there any fun tourist activities in australia,travel_suggestion,12.840204,15.862475
+"i want to know how to change oil, tell me the steps one at a time while i work through it",oil_change_how,-2.1009266,-3.7073264
+suggest some things for me to do while i am in los angeles,travel_suggestion,13.065528,15.623843
+let's hear a joke!,tell_joke,9.145869,10.6058035
+tell me what is on my calendar for april 1,calendar,18.80069,6.117821
+what's a fun fact about eggs,fun_fact,11.043942,12.785511
+how do i change a car's oil,oil_change_how,-2.7350547,-2.7124388
+how do i change my car oil,oil_change_how,-2.7946184,-2.718377
+please cancel the input,cancel,11.372141,-3.601821
+i want to hear doctor jokes,tell_joke,8.612973,10.853963
+ribs can stay in the fridge for how long before they turn,food_last,-0.9006191,15.62715
+stop talking you are annoying,cancel,9.485567,-4.3450837
+i want to hear an interesting fact about dinosaurs,fun_fact,10.489156,12.709892
+can you increase the speaker volume please,change_volume,8.894174,-7.8091307
+where can i find a page showing my how to change my oil,oil_change_how,-2.2246568,-4.0114994
+can you tell me how to change my car's oil,oil_change_how,-2.6108747,-2.8082716
+what are some suggestions for places to travel,travel_suggestion,13.425628,16.989515
+can you change the date of the doctor's appointment event in my calendar from april 1 to april 3rd,calendar_update,19.446453,4.646534
+is rice bad after 3 days in fridge,food_last,0.56089294,15.644843
+how long is pork good in the fridge,food_last,-1.1657891,15.707698
+where do you suggest i plan my next vacation,travel_suggestion,13.450266,17.012327
+what's fun to do in thailand,travel_suggestion,12.852679,16.351917
+can you cancel my 5:30 pm table reservation at parc,cancel_reservation,11.311417,4.2603035
+do i have my nephew's birthday marked for november 10th,calendar,18.048346,5.7609754
+how long does this dish need to be in the oven,cook_time,-1.4321991,16.780472
+increase volume to 4,change_volume,6.111201,-9.205065
+give me the length of time that i can leave milk in my fridge,food_last,-0.1327022,14.349006
+tell me some fun activities to do in oklahoma city,travel_suggestion,13.350814,15.44471
+can you tell me when i should change my oil,oil_change_when,-4.469495,5.5746984
+i want to learn to change oil,oil_change_how,-1.9081393,-3.4263425
+what's a fun fact about mythology,fun_fact,10.932137,12.811912
+be more quiet,change_volume,9.855395,-6.9282646
+turn up your speaker volume,change_volume,8.508062,-7.7388043
+cancel action,cancel,11.12214,-3.515551
+how often should the oil get changed,oil_change_when,-4.534547,6.6426997
+"i would like to find a list of cool things recommended for tourists in copenhagen, denmark",travel_suggestion,12.972877,16.242365
+stop the process happening now,cancel,10.9509,-2.8678684
+i have a reservation at pizza hut under the name leia roberts and i want to cancel it,cancel_reservation,11.796694,4.4141865
+clear my calendar on feb 28,calendar_update,18.129848,4.542343
+add a doctor's appointment to my calendar for friday,calendar_update,19.41202,4.728541
+please lower the sound,change_volume,8.584276,-7.203984
+what's the shelf life of guacamole in the fridge,food_last,-0.33040056,15.559004
+i need to know what is currently on my calendar for friday the 1st,calendar,17.617138,6.513337
+could you increase the speaker volume please,change_volume,8.878971,-7.865123
+clear my entire schedule for april 1,calendar_update,18.328112,4.8411536
+i want your setting adjusted to whisper voice now,whisper_mode,11.745245,-7.978306
+i need a good joke about office parties,tell_joke,8.722944,11.056731
+tell me a joke about politicians,tell_joke,8.820526,11.11463
+give me some ideas on what i can do in seattle for fun,travel_suggestion,12.991768,15.385527
+i want you to be in whisper mode now because i am in the library,whisper_mode,11.655795,-8.640449
+"sorry, you can actually stop that",cancel,10.266926,-3.7986326
+i can't remember if i added the fun run to my calendar yet; did i,calendar,18.269201,5.7936096
+is anything happening on march 4th 2019,calendar,18.977432,6.1754007
+quit the current action please,cancel,10.746121,-3.3587685
+how long can i keep avocados in the fridge before they go bad,food_last,-0.4369083,15.524424
+shh please speak with a whisper,whisper_mode,11.083032,-7.3373194
+is it time for an oil change,oil_change_when,-4.8037257,5.3851976
+the sound is too low,change_volume,8.620108,-7.3098135
+please remove lunch with sally that is on my calendar on tuesday the 8th,calendar_update,17.007355,5.3879523
+please lower your volume,change_volume,8.513432,-7.0937424
+how long can i go before changing my oil,oil_change_when,-3.8791447,6.0973125
+"nevermind, cancel that",cancel,11.198462,-3.9636493
+what do i have scheduled for march 2,calendar,18.732273,6.1763787
+can you tell me a joke about a lawyer,tell_joke,8.678368,10.891619
+the reservation i made is not required anymore,cancel_reservation,10.845623,5.095022
+teach me how to change the oil in my vehicle,oil_change_how,-2.0332448,-3.221238
+when should i take an apple pie out,cook_time,-1.3677092,16.416723
+undo my reservation for 5 at the loft,cancel_reservation,11.305272,3.674747
