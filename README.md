@@ -138,28 +138,3 @@ python src/predict.py --text "What's my balance?" --method fewshot
 # Few-Shot с кастомными параметрами
 python src/predict.py --text "What's my balance?" --method fewshot --n_shots 5 --strategy central
 ```
-
----
-
-## Структура репозитория
-
-```
-├── data/
-│   ├── prepare_data.py
-│   └── splits/              # train.csv, val.csv, test.csv
-├── experiments/
-│   ├── exp01_finetuning/
-│   ├── exp02_zeroshot/
-│   ├── exp03_fewshot/
-│   └── exp04_error_analysis/
-├── notebooks/
-│   └── Final_Report.ipynb
-├── src/
-│   ├── predict.py
-│   └── intent_mapping.py
-└── results/
-    ├── metrics/             # exp01–exp03 метрики CSV
-    ├── models/              # сохранённая DistilBERT
-    ├── plots/               # все графики
-    └── analysis/            # error_samples.csv
-```
